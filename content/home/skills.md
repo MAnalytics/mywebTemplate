@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Analytical Skills"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -25,18 +25,36 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "100%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "80%"
+  
+[[feature]]
+  icon = "globe-asia"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Geostatistics"
   description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
+[[feature]]
+  icon = "google-wallet"
+  icon_pack = "fab"
+  name = "Spatiotemp. Modellg."
+  description = "100%"  
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "DBMS"
+  description = "90%"  
+
+[[feature]]
+  icon = "map-marked-alt"
+  icon_pack = "fas"
+  name = "Web & mob. app Develop."
+  description = "90%"   
+   
 +++
