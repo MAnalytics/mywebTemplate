@@ -22,7 +22,7 @@ html {
 
 body {
   font-family: inherit;
-  font-size: 1.1rem;
+  font-size: 1.0rem;
   line-height: inherit;
   color: inherit;
   background-color: {{ .Get "background" }};

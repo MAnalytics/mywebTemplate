@@ -42,7 +42,7 @@ weight = 7
 [[feature]]
   icon = "google-wallet"
   icon_pack = "fab"
-  name = "Spatiotemp. Modellg."
+  name = "Spatiotemporal Modelling"
   description = "100%"  
 
 [[feature]]
@@ -54,7 +54,25 @@ weight = 7
 [[feature]]
   icon = "map-marked-alt"
   icon_pack = "fas"
-  name = "Web & mob. app Develop."
+  name = "Web & Mobile app Development"
   description = "90%"   
-   
+  
+[[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Crime Analytics"
+  description = "100%"
+  
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Collaborative open-source coding"
+  description = "100%"
+
+[[feature]]
+  icon = "building"
+  icon_pack = "fas"
+  name = "Parallel Computing"
+  description = "100%"
+
 +++
