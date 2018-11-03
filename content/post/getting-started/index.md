@@ -1,9 +1,9 @@
 +++
 title = "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)"
-subtitle = "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)"
+subtitle = "Monsuru Adepeju, Samuel Langton and Jon Bannister"
 
-date = 2016-04-20T00:00:00
-lastmod = 2018-01-13T00:00:00
+date = 2018-10-02T00:00:00
+lastmod = 2018-11-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -1,5 +1,26 @@
 [
   {
+    "authors": [],
+    "categories": null,
+    "content": " Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.\nFollow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you\u0026rsquo;ll get in less than 10 minutes.\n View the documentation Ask a question Request a feature or report a bug Updating? View the Update Guide and Release Notes Support development of Academic:  Donate a coffee Become a backer on Patreon Decorate your laptop or journal with an Academic sticker Wear the T-shirt   \nKey features:\n Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.\n         Ecosystem Academic Admin: An admin tool to import publications from BibTeX or import assets for an offline site\nInstall You can choose from one of the following four methods to install:\n one-click install using your web browser (recommended) install on your computer using Git with the Command Prompt/Terminal app install on your computer by downloading the ZIP files install on your computer with RStudio  Quick install using your web browser  Install Academic with Netlify  Netlify will provide you with a customizable URL to access your new site  On GitHub, go to your newly created academic-kickstart repository and edit config.toml to personalize your site. Shortly after saving the file, your site will automatically update Read the Quick Start Guide to learn how to add Markdown content. For inspiration, refer to the Markdown content which powers the Demo  Install with Git Prerequisites:\n Download and install Git Download and install Hugo   Fork the Academic Kickstart repository and clone your fork with Git:\ngit clone https://github.com/sourcethemes/academic-kickstart.git My_Website  Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace sourcethemes with your GitHub username.\n Initialize the theme:\ncd My_Website git submodule update --init --recursive   Install with ZIP  Download and extract Academic Kickstart Download and extract the Academic theme to the themes/academic/ folder from the above step  Install with RStudio View the guide to installing Academic with RStudio\nQuick start  If you installed on your computer, view your new website by running the following command:\nhugo server  Now visit localhost:1313 and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.\n Read the Quick Start Guide to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the Markdown content which powers the Demo\n Build your site by running the hugo command. Then host it for free using Github Pages or Netlify (refer to the first installation method). Alternatively, copy the generated public/ directory (by FTP, Rsync, etc.) to your production web server (such as a university\u0026rsquo;s hosting service).\n  Updating Feel free to star the project on Github to help keep track of updates and check out the release notes prior to updating your site.\nBefore updating the framework, it is recommended to make a backup of your entire website directory (or at least your themes/academic directory) and record your current version number.\nBy default, Academic is installed as a Git submodule which can be updated by running the following command:\ngit submodule update --remote --merge  Check out the update guide for full instructions and alternative methods.\nFeedback \u0026amp; Contributing Please use the issue tracker to let me know about any bugs or feature requests, or alternatively make a pull request.\nFor support, head over to the Hugo discussion forum.\nLicense Copyright 2016-present George Cushen.\nReleased under the MIT license.\n",
+    "date": 1538434800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": 1541203200,
+    "objectID": "279b9966ca9cf3121ce924dca452bb1c",
+    "permalink": "/post/getting-started/",
+    "publishdate": "2018-10-02T00:00:00+01:00",
+    "relpermalink": "/post/getting-started/",
+    "section": "post",
+    "summary": "Create a beautifully simple website or blog in under 10 minutes.",
+    "tags": [
+      "Academic"
+    ],
+    "title": "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)",
+    "type": "post"
+  },
+  {
     "authors": null,
     "categories": null,
     "content": " In this tutorial, I\u0026rsquo;ll share my top 10 tips for getting started with Academic:\nTip 1 \u0026hellip;\nTip 2 \u0026hellip;\n",
@@ -78,27 +99,6 @@
     ],
     "title": "Internal Project",
     "type": "project"
-  },
-  {
-    "authors": [],
-    "categories": null,
-    "content": " Academic makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.\nFollow our easy step by step guide to learn how to build your own free website with Academic. Check out the personal demo or the business demo of what you\u0026rsquo;ll get in less than 10 minutes.\n View the documentation Ask a question Request a feature or report a bug Updating? View the Update Guide and Release Notes Support development of Academic:  Donate a coffee Become a backer on Patreon Decorate your laptop or journal with an Academic sticker Wear the T-shirt   \nKey features:\n Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.\n         Ecosystem Academic Admin: An admin tool to import publications from BibTeX or import assets for an offline site\nInstall You can choose from one of the following four methods to install:\n one-click install using your web browser (recommended) install on your computer using Git with the Command Prompt/Terminal app install on your computer by downloading the ZIP files install on your computer with RStudio  Quick install using your web browser  Install Academic with Netlify  Netlify will provide you with a customizable URL to access your new site  On GitHub, go to your newly created academic-kickstart repository and edit config.toml to personalize your site. Shortly after saving the file, your site will automatically update Read the Quick Start Guide to learn how to add Markdown content. For inspiration, refer to the Markdown content which powers the Demo  Install with Git Prerequisites:\n Download and install Git Download and install Hugo   Fork the Academic Kickstart repository and clone your fork with Git:\ngit clone https://github.com/sourcethemes/academic-kickstart.git My_Website  Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace sourcethemes with your GitHub username.\n Initialize the theme:\ncd My_Website git submodule update --init --recursive   Install with ZIP  Download and extract Academic Kickstart Download and extract the Academic theme to the themes/academic/ folder from the above step  Install with RStudio View the guide to installing Academic with RStudio\nQuick start  If you installed on your computer, view your new website by running the following command:\nhugo server  Now visit localhost:1313 and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.\n Read the Quick Start Guide to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the Markdown content which powers the Demo\n Build your site by running the hugo command. Then host it for free using Github Pages or Netlify (refer to the first installation method). Alternatively, copy the generated public/ directory (by FTP, Rsync, etc.) to your production web server (such as a university\u0026rsquo;s hosting service).\n  Updating Feel free to star the project on Github to help keep track of updates and check out the release notes prior to updating your site.\nBefore updating the framework, it is recommended to make a backup of your entire website directory (or at least your themes/academic directory) and record your current version number.\nBy default, Academic is installed as a Git submodule which can be updated by running the following command:\ngit submodule update --remote --merge  Check out the update guide for full instructions and alternative methods.\nFeedback \u0026amp; Contributing Please use the issue tracker to let me know about any bugs or feature requests, or alternatively make a pull request.\nFor support, head over to the Hugo discussion forum.\nLicense Copyright 2016-present George Cushen.\nReleased under the MIT license.\n",
-    "date": 1461106800,
-    "expirydate": -62135596800,
-    "kind": "page",
-    "lang": "en",
-    "lastmod": 1515801600,
-    "objectID": "279b9966ca9cf3121ce924dca452bb1c",
-    "permalink": "/post/getting-started/",
-    "publishdate": "2016-04-20T00:00:00+01:00",
-    "relpermalink": "/post/getting-started/",
-    "section": "post",
-    "summary": "Create a beautifully simple website or blog in under 10 minutes.",
-    "tags": [
-      "Academic"
-    ],
-    "title": "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)",
-    "type": "post"
   },
   {
     "authors": [
