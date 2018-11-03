@@ -9,6 +9,7 @@
 baseurl = "https://dr-adepeju.netlify.com"
 
 # Title of your site
+icon = "envelope"
 title = "Monsuru Adepeju's Homepage"
 
 # Your copyright notice - appears in site footer.
@@ -49,7 +50,7 @@ enableGitInfo = false
 
 [params]
   # AUTHOR SETUP
-
+  #avatar = "portrait.jpg"
   # Your details.
   name = "Dr. Monsuru Adepeju"
   role = "Senior Research Associate"
