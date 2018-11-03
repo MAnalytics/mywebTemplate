@@ -1,6 +1,6 @@
 +++
-title = "Academic: the website designer for Hugo"
-subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
+title = "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)"
+subtitle = "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)"
 
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
