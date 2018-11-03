@@ -10,9 +10,9 @@
 
 html {
   font-family: '{{ .Get "body_font" }}', sans-serif;
-  font-size: {{ .Get "font_size_small" }}px;
-  color: rgba(0,0,0,0.8);
-  line-height: 1.25;
+  font-size: 1.1rem; /* {{ .Get "font_size_small" }}px; */
+  color: black; /*rgba(0,0,0,0.8); */
+  line-height: 1.5;
 }
 @media screen and (min-width: 68em) {
   html {
@@ -22,7 +22,7 @@ html {
 
 body {
   font-family: inherit;
-  font-size: 0.5rem;
+  font-size: 1.1rem;
   line-height: inherit;
   color: inherit;
   background-color: {{ .Get "background" }};
@@ -30,7 +30,7 @@ body {
   padding-top: 0;
   counter-reset: captions;
 }
-@media screen and (max-width: 1500px) { /* Match max-width of .nav-bar query. */
+@media screen and (max-width: 1800px) { /* Match max-width of .nav-bar query. */
   body {
     margin-top: 51px; /* Offset body content by navbar height. */
   }
@@ -64,7 +64,7 @@ ul, ol, dl {
 /* Navigation bar text */
 .navbar-light {
   font-family: '{{ .Get "nav_font" }}', sans-serif;
-  font-weight: 600;
+  font-weight: 800;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
@@ -76,12 +76,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1rem;
   margin-bottom: .5rem;
   line-height: 1.25;
-  color: #313131;
+  color: blue;
   text-rendering: optimizeLegibility;
-  overflow-wrap: break-word; /* Ensures very long heading words do not overflow into content. */
+  overflow-wrap: normal; /* break-word ,Ensures very long heading words do not overflow into content. */
 }
 h1 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 h2 {
   margin-top: 1rem;
