@@ -1,6 +1,6 @@
 ---
-title: "European Society of Criminology - Sarajevo, BiH, 29th Auguest 2018"
-author: "Offender residential concentrations: a longitudinal study in the United Kingdom"
+title: "European Society of Criminology - 29th August 2018"
+author: "Frida Gomam"
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
@@ -9,18 +9,36 @@ tags: ["R Markdown", "plot", "regression"]
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
-# Rmarkdown
-
-Offender residential concentrations: a longitudinal study in the United Kingdom
-
-# Authors: 
-
-**Samuel Langton & Monsuru Adepeju**
 
 # Title:
 
-**Offender residential concentrations: a longitudinal study in the United Kingdom**
+**Offender residential concentration: a longitudinal study in the United Kingdom**
 
-This study examines...
+# Authors:
+
+**Samuel Langton & Monsuru Adepeju**
+
+# Abstract:
+
+This study examines..
 
 
+You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+fit <- lm(dist ~ speed, data = cars)
+fit
+```
+
+You can also embed plots. See Figure \@ref(fig:pie) for example:
+
+```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
+par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
+  col = c('#0292D8', '#F7EA39', '#C4B632'),
+  init.angle = -50, border = NA
+)
+```

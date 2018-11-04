@@ -1,6 +1,6 @@
 +++
 title = "BDC Seminar Series - 2nd October 2018"
-subtitle = "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)"
+subtitle = "**The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)**"
 
 date = 2018-10-02T00:00:00
 lastmod = 2018-11-03T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Academic"]
-summary = "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)"
+summary = "**Title: The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)**"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -18,10 +18,10 @@ summary = "The crime drop and neighbourhood inequalities in the exposure to crim
 # 
  [image]
    # Caption (optional)
-   caption = "Image credit: [**Sam_langton**](https://unsplash.com/photos/CpkOjOcXdUY)"
+   #caption = "Image credit: [**Sam_langton**](https://unsplash.com/photos/CpkOjOcXdUY)"
  
-
-
+ caption = "Image credit: [**Steph_W.**](https://github.com/geoMADE/mons_Website/blob/master/content/post/getting-started/featured.jpg)"
+ 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
@@ -77,7 +77,12 @@ Since the 1990s, a dramatic decline in recorded crime has been observed across m
 This research deploys a novel 'inequity' kmeans clustering (iClustering) technique (Adepeju, Langton and Bannister, in preparation) to examine the longitudinal crime trajectories of neighbourhoods. This technique offers substantive advantage over existing longitudinal clustering techniques (Curman et al., 2015; Weisburd et al., 2004; Wheeler et al., 2015) enabling clearer delineation of neighbourhood crime trajectories. The results indicate growing inequalities in the exposure to crime and may be applied, in an era of fiscal austerity, to help target and prioritise policing interventions.
 
 
-# Speaker
+# Delivered by:
 Dr. Monsuru Adepeju
+
+
+
+
+
 
 

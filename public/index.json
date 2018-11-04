@@ -2,7 +2,7 @@
   {
     "authors": [],
     "categories": null,
-    "content": " Authors: Monsuru Adepeju, Samuel Langton, and Jon Bannister\nAbstract Since the 1990s, a dramatic decline in recorded crime has been observed across many developed polities (Aebi and Linde, 2010; Tseloni et al., 2010). Set against this finding, there has been limited attention paid the crime drop at the neighbourhood level, an exception being Bannister et al (2017) who found marked distinction in the crime drop trajectories of different neighbourhood groupings in Glasgow. Building upon this finding, this paper seeks to explore whether the crime drop has resulted in an increase in inequalities in the exposure to crime. The analysis utilises police recorded property and violent crime in Glasgow and Birmingham, enabling assessment of whether any observed shifting inequalities in the exposure to crime can be considered place specific or part of wider area trends.\nThis research deploys a novel \u0026lsquo;inequity\u0026rsquo; kmeans clustering (iClustering) technique (Adepeju, Langton and Bannister, in preparation) to examine the longitudinal crime trajectories of neighbourhoods. This technique offers substantive advantage over existing longitudinal clustering techniques (Curman et al., 2015; Weisburd et al., 2004; Wheeler et al., 2015) enabling clearer delineation of neighbourhood crime trajectories. The results indicate growing inequalities in the exposure to crime and may be applied, in an era of fiscal austerity, to help target and prioritise policing interventions.\nSpeaker Dr. Monsuru Adepeju\n",
+    "content": " Authors: Monsuru Adepeju, Samuel Langton, and Jon Bannister\nAbstract Since the 1990s, a dramatic decline in recorded crime has been observed across many developed polities (Aebi and Linde, 2010; Tseloni et al., 2010). Set against this finding, there has been limited attention paid the crime drop at the neighbourhood level, an exception being Bannister et al (2017) who found marked distinction in the crime drop trajectories of different neighbourhood groupings in Glasgow. Building upon this finding, this paper seeks to explore whether the crime drop has resulted in an increase in inequalities in the exposure to crime. The analysis utilises police recorded property and violent crime in Glasgow and Birmingham, enabling assessment of whether any observed shifting inequalities in the exposure to crime can be considered place specific or part of wider area trends.\nThis research deploys a novel \u0026lsquo;inequity\u0026rsquo; kmeans clustering (iClustering) technique (Adepeju, Langton and Bannister, in preparation) to examine the longitudinal crime trajectories of neighbourhoods. This technique offers substantive advantage over existing longitudinal clustering techniques (Curman et al., 2015; Weisburd et al., 2004; Wheeler et al., 2015) enabling clearer delineation of neighbourhood crime trajectories. The results indicate growing inequalities in the exposure to crime and may be applied, in an era of fiscal austerity, to help target and prioritise policing interventions.\nDelivered by: Dr. Monsuru Adepeju\n",
     "date": 1538434800,
     "expirydate": -62135596800,
     "kind": "page",
@@ -13,7 +13,7 @@
     "publishdate": "2018-10-02T00:00:00+01:00",
     "relpermalink": "/post/getting-started/",
     "section": "post",
-    "summary": "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)",
+    "summary": "**Title: The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)**",
     "tags": [
       "Academic"
     ],
@@ -183,7 +183,7 @@
     "categories": [
       "R"
     ],
-    "content": "\rRmarkdown\rOffender residential concentrations: a longitudinal study in the United Kingdom\n\rAuthors:\rSamuel Langton \u0026amp; Monsuru Adepeju\n\rTitle:\rOffender residential concentrations: a longitudinal study in the United Kingdom\nThis study examines…\n\r",
+    "content": "\rTitle:\rOffender residential concentration: a longitudinal study in the United Kingdom\n\rAuthors:\rSamuel Langton \u0026amp; Monsuru Adepeju\n\rAbstract:\rThis study examines..\nYou can embed an R code chunk like this:\nsummary(cars)\r## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00\rfit \u0026lt;- lm(dist ~ speed, data = cars)\rfit\r## ## Call:\r## lm(formula = dist ~ speed, data = cars)\r## ## Coefficients:\r## (Intercept) speed ## -17.579 3.932\rYou can also embed plots. See Figure 1 for example:\npar(mar = c(0, 1, 0, 1))\rpie(\rc(280, 60, 20),\rc(\u0026#39;Sky\u0026#39;, \u0026#39;Sunny side of pyramid\u0026#39;, \u0026#39;Shady side of pyramid\u0026#39;),\rcol = c(\u0026#39;#0292D8\u0026#39;, \u0026#39;#F7EA39\u0026#39;, \u0026#39;#C4B632\u0026#39;),\rinit.angle = -50, border = NA\r)\r\rFigure 1: A fancy pie chart.\r\r\r",
     "date": 1437703994,
     "expirydate": -62135596800,
     "kind": "page",
@@ -194,13 +194,13 @@
     "publishdate": "2015-07-23T21:13:14-05:00",
     "relpermalink": "/post/2015-07-23-r-rmarkdown/",
     "section": "post",
-    "summary": "\rRmarkdown\rOffender residential concentrations: a longitudinal study in the United Kingdom\n\rAuthors:\rSamuel Langton \u0026amp; Monsuru Adepeju\n\rTitle:\rOffender residential concentrations: a longitudinal study in the United Kingdom\nThis study examines…\n\r",
+    "summary": "Title:\rOffender residential concentration: a longitudinal study in the United Kingdom\n\rAuthors:\rSamuel Langton \u0026amp; Monsuru Adepeju\n\rAbstract:\rThis study examines..\nYou can embed an R code chunk like this:\nsummary(cars)\r## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.",
     "tags": [
       "R Markdown",
       "plot",
       "regression"
     ],
-    "title": "European Society of Criminology - Sarajevo, BiH, 29th Auguest 2018",
+    "title": "European Society of Criminology - 29th August 2018",
     "type": "post"
   },
   {

@@ -68,6 +68,15 @@ About me I am a geo-informatician by training, specialising in crime and police 
     </item>
     
     <item>
+      <title>Two most recent talks</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Analytical Tools</title>
       <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
@@ -77,14 +86,12 @@ About me I am a geo-informatician by training, specialising in crime and police 
     </item>
     
     <item>
-      <title>Teaching</title>
+      <title>Awards</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>2013: UCL Dean&amp;rsquo;s Scholarship for a 3-Year Ph.D. Programme 2012: UK Royal Institute of Chartered Surveyors (RICS) Awards for Best MSc GIS thesis at UCL. 2011: PTDF NIGERIA / UCL Scholarship awards for MSc programme in the UK 2010: Excellence Awards - Service Delivery in Informatic/GIS for Plateau State of Nigeria. 2009: Overall Best in Data Entry - Plateau State GIS Project, Sivan Design (Israel). 2008: Best Graduating Student - Dept.</description>
     </item>
     
     <item>
@@ -112,18 +119,6 @@ I am a teaching instructor for the following courses at University X:
       
       <guid>/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/home/posts/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/home/posts/</guid>
-      <description>knitr::opts_chunk$set(collapse = TRUE)  R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) fit &amp;lt;- lm(dist ~ speed, data = cars) fit  Including Plots You can also embed plots. See Figure \@ref(fig:pie) for example:
-par(mar = c(0, 1, 0, 1)) pie( c(280, 60, 20), c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;), col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;), init.</description>
     </item>
     
     <item>
