@@ -13,7 +13,7 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = "A fortnightly seminar series aimed at addressing substantive theoretical, empirical and methodological developments in the study of crime and well-being. The seminars are being delivered by a combination of internal and external speakers, and are open to all members of the public."
-abstract_short = "An example talk using Academic's Markdown slides feature."
+abstract_short = "Topic:"
 
 # Name of event and optional event URL.
 event = "Academic Theme Conference"
