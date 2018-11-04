@@ -315,11 +315,11 @@ enableGitInfo = false
 #    url = "files/cv.pdf"
 #    weight = 7
 
-[[params.logo]]
-url="https://github.com/geoMADE/mons_Website/blob/master/static/img/DataTekaHex.png"
-width=50
-height=50
-alt="Logo"
+#[[params.logo]]
+#url="https://github.com/geoMADE/mons_Website/blob/master/static/img/DataTekaHex.png"
+#width=50
+#height=50
+#alt="Logo"
 
 # Search.
 [params.search]
