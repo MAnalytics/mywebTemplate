@@ -75,7 +75,6 @@ This research deploys a novel 'inequity' kmeans clustering (iClustering) techniq
 
 
 # Speaker
-
-Dr Adepeju is a Senior Research Associate at the Manchester Metropolitan University Crime and Well-Being Big Data Centre. He obtained his PhD degree in GIS and Crime Science from University College London where he was able to develop a number of crime predictive methods, some of which are now being applied in a real policing environment. His research interest covers a wide range of spatial and quantitative techniques for crime and policing data analytics, census/neighbourhood analysis, transport and urban dynamics. Some of his recent research has focused on investigating the relationships between socioeconomic inequalities and crime risk distribution across the UK.
+Dr. Monsuru Adepeju
 
 
