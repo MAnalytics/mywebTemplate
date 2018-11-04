@@ -20,9 +20,9 @@ type = "docs"  # Do not modify.
 
 **The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)**
  
- ![Example image](/static/img/DataTekaHex.png)
+ #![Example image](/static/img/DataTekaHex.png)
  
- ![Example image](https://github.com/geoMADE/mons_Website/blob/master/static/img/DataTekaHex.png)
+ #![Example image](https://github.com/geoMADE/mons_Website/blob/master/static/img/DataTekaHex.png)
  
 **Abstract:**
 
