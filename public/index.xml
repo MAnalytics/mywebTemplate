@@ -11,12 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)</title>
+      <title>BDC Seminar Series - 2nd October 2018</title>
       <link>/post/getting-started/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
+
+&lt;h2 id=&#34;authors&#34;&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Monsuru Adepeju, Samuel Langton, and Jon Bannister&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 
@@ -31,85 +35,91 @@
     </item>
     
     <item>
-      <title>BDC Seminar | 2nd October, 2018</title>
-      <link>/tutorial/tutor_eg_021018/</link>
+      <title>BDC Seminar Series | 13th November 2018</title>
+      <link>/seminars/tutor_eg_131118/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tutorial/tutor_eg_021018/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/p&gt;
+      <guid>/seminars/tutor_eg_131118/</guid>
+      <description>&lt;p&gt;#To be announced soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BDC Seminar Series | 2nd October, 2018</title>
+      <link>/seminars/tutor_eg_021018/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/seminars/tutor_eg_021018/</guid>
+      <description>
+
+&lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;Since the 1990s, a dramatic decline in recorded crime has been observed across many developed polities (Aebi and Linde, 2010; Tseloni et al., 2010). Set against this finding, there has been limited attention paid the crime drop at the neighbourhood level, an exception being Bannister et al (2017) who found marked distinction in the crime drop trajectories of different neighbourhood groupings in Glasgow. Building upon this finding, this paper seeks to explore whether the crime drop has resulted in an increase in inequalities in the exposure to crime. The analysis utilises police recorded property and violent crime in Glasgow and Birmingham, enabling assessment of whether any observed shifting inequalities in the exposure to crime can be considered place specific or part of wider area trends.
 This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clustering (iClustering) technique (Adepeju, Langton and Bannister, in preparation) to examine the longitudinal crime trajectories of neighbourhoods. This technique offers substantive advantage over existing longitudinal clustering techniques (Curman et al., 2015; Weisburd et al., 2004; Wheeler et al., 2015) enabling clearer delineation of neighbourhood crime trajectories. The results indicate growing inequalities in the exposure to crime and may be applied, in an era of fiscal austerity, to help target and prioritise policing interventions.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt;
-Dr Monsuru Adepeju&lt;/p&gt;
+&lt;h2 id=&#34;speaker&#34;&gt;&lt;strong&gt;Speaker:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Organiser:&lt;/strong&gt;
-Dr Monsuru Adepeju&lt;/p&gt;
+&lt;p&gt;Dr Monsuru Adepeju&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Page</title>
-      <link>/tutorial/tutor_eg_131118/</link>
+      <title>BDC Seminar Series | 30th October 2018</title>
+      <link>/seminars/tutor_eg_301018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tutorial/tutor_eg_131118/</guid>
+      <guid>/seminars/tutor_eg_301018/</guid>
       <description>
 
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Using Agent-Based Simulation for socio-ecological uncertainty analysis&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Both social and ecological systems can be highly complex, but the interaction between these two worlds - a socio-ecological system (SES) - can add even greater levels. However, the maintenance of SES are vital to our well-being and the health of the planet. We do not know how such systems work in practice and we lack good data about them (especially the ecological side) so predicting the effect of any particular policy is infeasible. Here we present an approach which tries to understand some of the ways in which SES may go wrong, but constructing different complex simulation models and analysing the emergent outcomes. These, in silico, examples can allow for the institution of targeted data gathering instruments that give the earliest possible warning of deleterious outcomes, and thus allow for timely remedial responses. An example of this approach applied to fisheries is described.&lt;/p&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;author&#34;&gt;&lt;strong&gt;Author:&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Bruce Edmonds&lt;/strong&gt; is Professor of Social Simulation and Director of the Centre for Policy Modelling (CfPM). The CfPM was formed in 1992 as one of the first research centres in the complexity sciences in the UK. It applies computer science techniques to understand issues in the social world. Since 1992 it has developed to be one of the world&amp;rsquo;s leading research centres in agent-based modelling. For more about the Centre see &lt;a href=&#34;http://cfpm.org&#34; target=&#34;_blank&#34;&gt;http://cfpm.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;delivered-by&#34;&gt;&lt;strong&gt;Delivered by:&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Bruce Edmonds (Prof.)&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Example Page</title>
-      <link>/tutorial/tutor_eg_161018/</link>
+      <title>BDC Seminar series | 16th October 2018</title>
+      <link>/seminars/tutor_eg_161018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tutorial/tutor_eg_161018/</guid>
+      <guid>/seminars/tutor_eg_161018/</guid>
       <description>
 
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hidden inequality in the exposure to crime? Unreported, reported and recorded crime in Greater Manchester 2012-2016&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;The level of recorded crime varies markedly across Greater Manchester, with deprived communities bearing a disproportionate burden. However, does recorded crime accurately capture inequality in the exposure to crime? Recorded crime is composed of reported incidents that are evidenced by the police to be a crime. If reporting and evidencing are consistent across communities and crime types, then recorded crime can be argued to be reflective of the lived reality. In other words, whilst some crimes remain hidden, their proportionate distribution falls in line with recorded crime. But, if reporting and evidencing varies across communities and by crime type, recorded crime can be argued to be unreflective of the lived reality, to mask hidden inequality in the exposure to crime.&lt;/p&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Page</title>
-      <link>/tutorial/tutor_eg_301018/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/tutorial/tutor_eg_301018/</guid>
-      <description>
+&lt;p&gt;In this paper we probe the existence of hidden inequality in the exposure to violent, property and nuisance crimes across communities in Greater Manchester, classified according to their level of deprivation, between 2012 and 2016. To do so, we utilise data from the Crime Survey of England and Wales, reported (incident) and recorded crime data, as well as census data. The research deploys a Bayesian hierarchical space-time model using Integrated Nested Laplace Approximation (INLA) to examine the relationships between unreported, reported and recorded crime types across communities and through time. The results demonstrate the existence of marked hidden inequality in the exposure to crime, though this varies substantively by crime type. Finally, we discuss the implications of the findings for the advance of effective, efficient and legitimate policing interventions.&lt;/p&gt;
 
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;authors&#34;&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Dr Stephanie Wallace&lt;/strong&gt; is a Lecturer in Criminology and Quantitative Methods at Manchester Metropolitan University, and an associate member of the Manchester Metropolitan Crime and Well-Being Big Data Centre. Stephanie obtained her PhD in Applied Social Statistics from Lancaster University, where her research focused on developing methods to measure sentence severity, and applying these methods to assess sentencing disparity in England and Wales. Her research continues to employ a range of quantitative techniques and methods to investigate disproportionality within the criminal justice system, particularly in relation to the spatial and temporal interplay with inequality.&lt;/p&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dr Karolina Krzemieniewska-Nandwani&lt;/strong&gt; is a Research Associate at the Manchester Metropolitan University Crime and Well-Being Big Data Centre. She specialises in data analysis and statistics, with particular interest in classification techniques and time series analysis. Her industrial background has equipped her with practical experience in the application of advanced statistical methods suitable for analysis of crime, policing and health data. Her most recent projects involve the analysis of crime harm and police resource demand modelling.&lt;/p&gt;
 
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;h2 id=&#34;delivered-by&#34;&gt;&lt;strong&gt;Delivered by:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Karolina Krzemieniewska-Nandwani (Dr.)&lt;/p&gt;
 </description>
     </item>
     
@@ -176,16 +186,16 @@ Dr Monsuru Adepeju&lt;/p&gt;
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
+      <link>/publication_/person-re-id/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
       
-      <guid>/publication/person-re-id/</guid>
+      <guid>/publication_/person-re-id/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
+      <title>European Society of Criminology - Sarajevo, BiH, 29th Auguest 2018</title>
       <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
@@ -193,54 +203,25 @@ Dr Monsuru Adepeju&lt;/p&gt;
       <description>
 
 
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Offender residential concentrations: a longitudinal study in the United Kingdom&lt;/p&gt;
+&lt;div id=&#34;authors&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Authors:&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Samuel Langton &amp;amp; Monsuru Adepeju&lt;/strong&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
+&lt;div id=&#34;title&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Title:&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Offender residential concentrations: a longitudinal study in the United Kingdom&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study examines…&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
+      <link>/publication_/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/publication_/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
@@ -425,37 +406,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>rmdf</title>
-      <link>/tutorial/tutor_eg_311018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tutorial/tutor_eg_311018/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;R Markdown&lt;/h2&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;When you click the &lt;strong&gt;Knit&lt;/strong&gt; button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Including Plots&lt;/h2&gt;
-&lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/tutorial/tutor_eg_311018_files/figure-html/pressure-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
-&lt;/div&gt;
 </description>
     </item>
     

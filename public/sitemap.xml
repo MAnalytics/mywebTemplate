@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>/tutorial/tutor_eg_021018/</loc>
+      <loc>/publications/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>/tutorial/tutor_eg_131118/</loc>
+      <loc>/seminars/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>/tutorial/tutor_eg_161018/</loc>
+      <loc>/seminars/tutor_eg_131118/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>/tutorial/tutor_eg_301018/</loc>
+      <loc>/seminars/tutor_eg_021018/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -44,7 +44,15 @@
     
     <url>
     
-      <loc>/tutorial/</loc>
+      <loc>/seminars/tutor_eg_301018/</loc>
+      <lastmod>2018-09-09T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/seminars/tutor_eg_161018/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -68,15 +76,7 @@
     
     <url>
     
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
+      <loc>/publication_/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -85,6 +85,14 @@
     <url>
     
       <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -108,7 +116,7 @@
     
     <url>
     
-      <loc>/publication/person-re-id/</loc>
+      <loc>/publication_/person-re-id/</loc>
       <lastmod>2015-09-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -124,7 +132,7 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
+      <loc>/publication_/clothing-search/</loc>
       <lastmod>2013-07-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -266,13 +274,6 @@
       <loc>/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tutorial/tutor_eg_311018/</loc>
     </url>
     
   

@@ -1,6 +1,6 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
+title: "European Society of Criminology - Sarajevo, BiH, 29th Auguest 2018"
+author: "Offender residential concentrations: a longitudinal study in the United Kingdom"
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
@@ -10,28 +10,16 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+Offender residential concentrations: a longitudinal study in the United Kingdom
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+# Authors: 
 
-You can embed an R code chunk like this:
+**Samuel Langton & Monsuru Adepeju**
 
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
+# Title:
 
-# Including Plots
+**Offender residential concentrations: a longitudinal study in the United Kingdom**
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
+This study examines...
 
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
+

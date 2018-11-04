@@ -1,6 +1,6 @@
 +++
-title = "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)"
-subtitle = "Monsuru Adepeju, Samuel Langton and Jon Bannister"
+title = "BDC Seminar Series - 2nd October 2018"
+subtitle = "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)"
 
 date = 2018-10-02T00:00:00
 lastmod = 2018-11-03T00:00:00
@@ -10,7 +10,7 @@ draft = false
 authors = []
 
 tags = ["Academic"]
-summary = "Authors: Monsuru Adepeju, Samuel Langton and Jon Bannister"
+summary = "The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -18,7 +18,7 @@ summary = "Authors: Monsuru Adepeju, Samuel Langton and Jon Bannister"
 # 
  [image]
    # Caption (optional)
-   caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+   caption = "Image credit: [**Sam_langton**](https://unsplash.com/photos/CpkOjOcXdUY)"
  
 
 
@@ -66,6 +66,9 @@ album = "1"
 image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-cupcake.png"
 caption = "Cupcake"
 +++
+
+## **Authors:**
+**Monsuru Adepeju, Samuel Langton, and Jon Bannister**
 
 # Abstract 
 

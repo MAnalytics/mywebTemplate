@@ -5,8 +5,8 @@ widget = "posts"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Most recent BDC Seminar Series 2018-2019"
-subtitle = "Addressing substantive theoretical, empirical and methodological developments in the study of crime and well-being."
+title = "Two most recent talks"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 40
