@@ -1,0 +1,26 @@
+---
+title: "European Society of Criminology - Sarajevo, BiH, 29th Auguest 2018"
+author: "Offender residential concentrations: a longitudinal study in the United Kingdom"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+# Rmarkdown
+
+Offender residential concentrations: a longitudinal study in the United Kingdom
+
+# Authors: 
+
+**Samuel Langton & Monsuru Adepeju**
+
+# Title:
+
+**Offender residential concentrations: a longitudinal study in the United Kingdom**
+
+This study examines...
+
+

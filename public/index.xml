@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monsuru Adepeju&#39;s Homepage on Monsuru Adepeju&#39;s Homepage</title>
-    <link>https://dr-adepeju.netlify.com/</link>
+    <link>/</link>
     <description>Recent content in Monsuru Adepeju&#39;s Homepage on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>BDC Seminar Series - 2nd October 2018</title>
-      <link>https://dr-adepeju.netlify.com/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;h2 id=&#34;authors&#34;&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/h2&gt;
@@ -36,20 +36,20 @@
     
     <item>
       <title>BDC Seminar Series | 13th November 2018</title>
-      <link>https://dr-adepeju.netlify.com/seminars/tutor_eg_131118/</link>
+      <link>/seminars/tutor_eg_131118/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/seminars/tutor_eg_131118/</guid>
+      <guid>/seminars/tutor_eg_131118/</guid>
       <description>&lt;p&gt;#To be announced soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BDC Seminar Series | 2nd October, 2018</title>
-      <link>https://dr-adepeju.netlify.com/seminars/tutor_eg_021018/</link>
+      <link>/seminars/tutor_eg_021018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/seminars/tutor_eg_021018/</guid>
+      <guid>/seminars/tutor_eg_021018/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -69,10 +69,10 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>BDC Seminar Series | 30th October 2018</title>
-      <link>https://dr-adepeju.netlify.com/seminars/tutor_eg_301018/</link>
+      <link>/seminars/tutor_eg_301018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/seminars/tutor_eg_301018/</guid>
+      <guid>/seminars/tutor_eg_301018/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -95,10 +95,10 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>BDC Seminar series | 16th October 2018</title>
-      <link>https://dr-adepeju.netlify.com/seminars/tutor_eg_161018/</link>
+      <link>/seminars/tutor_eg_161018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/seminars/tutor_eg_161018/</guid>
+      <guid>/seminars/tutor_eg_161018/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -124,11 +124,21 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
-      <link>https://dr-adepeju.netlify.com/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
 
@@ -149,19 +159,19 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>External Project</title>
-      <link>https://dr-adepeju.netlify.com/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://dr-adepeju.netlify.com/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -176,30 +186,55 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://dr-adepeju.netlify.com/publication_/person-re-id/</link>
+      <link>/publication_/person-re-id/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/publication_/person-re-id/</guid>
+      <guid>/publication_/person-re-id/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>European Society of Criminology - Sarajevo, BiH, 29th Auguest 2018</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;rmarkdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Rmarkdown&lt;/h1&gt;
+&lt;p&gt;Offender residential concentrations: a longitudinal study in the United Kingdom&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;authors&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Authors:&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Samuel Langton &amp;amp; Monsuru Adepeju&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;title&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Title:&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Offender residential concentrations: a longitudinal study in the United Kingdom&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This study examines…&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mobile visual clothing search</title>
-      <link>https://dr-adepeju.netlify.com/publication_/clothing-search/</link>
+      <link>/publication_/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/publication_/clothing-search/</guid>
+      <guid>/publication_/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://dr-adepeju.netlify.com/slides/example-slides/</link>
+      <link>/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/slides/example-slides/</guid>
+      <guid>/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;

@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Monsuru Adepeju&#39;s Homepage</title>
-    <link>https://dr-adepeju.netlify.com/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://dr-adepeju.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://dr-adepeju.netlify.com/home/hero_carousel/</link>
+      <link>/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/hero_carousel/</guid>
+      <guid>/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://dr-adepeju.netlify.com/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Welcome Welcome to my website. The key purpose of this website is to provide a platform for a high-level description and discussion of my work, especially those ones with real life applications. I hope you find the contents useful. Enjoy!
 About me I am a geo-informatician by training, specialising in crime and police data analytics. Based in MMU Crime and Well-Being Big Data Centre, my current research focus on the development of measures of crime inequalities and risk indicators, taking into account identified drivers and patterns of crime.</description>
     </item>
     
     <item>
       <title>Analytical Skills</title>
-      <link>https://dr-adepeju.netlify.com/home/skills/</link>
+      <link>/home/skills/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/skills/</guid>
+      <guid>/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Work Experience</title>
-      <link>https://dr-adepeju.netlify.com/home/experience/</link>
+      <link>/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/experience/</guid>
+      <guid>/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>https://dr-adepeju.netlify.com/home/talks_selected/</link>
+      <link>/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/talks_selected/</guid>
+      <guid>/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://dr-adepeju.netlify.com/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytical Tools</title>
-      <link>https://dr-adepeju.netlify.com/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://dr-adepeju.netlify.com/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
 I am a teaching instructor for the following courses at University X:
  CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
@@ -89,37 +89,37 @@ I am a teaching instructor for the following courses at University X:
     
     <item>
       <title>Tags</title>
-      <link>https://dr-adepeju.netlify.com/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://dr-adepeju.netlify.com/home/search/</link>
+      <link>/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/search/</guid>
+      <guid>/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://dr-adepeju.netlify.com/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://dr-adepeju.netlify.com/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description>knitr::opts_chunk$set(collapse = TRUE)  R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) fit &amp;lt;- lm(dist ~ speed, data = cars) fit  Including Plots You can also embed plots. See Figure \@ref(fig:pie) for example:
@@ -128,19 +128,19 @@ par(mar = c(0, 1, 0, 1)) pie( c(280, 60, 20), c(&#39;Sky&#39;, &#39;Sunny side o
     
     <item>
       <title></title>
-      <link>https://dr-adepeju.netlify.com/home/publications_/</link>
+      <link>/home/publications_/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/publications_/</guid>
+      <guid>/home/publications_/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://dr-adepeju.netlify.com/home/publications_selected_/</link>
+      <link>/home/publications_selected_/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dr-adepeju.netlify.com/home/publications_selected_/</guid>
+      <guid>/home/publications_selected_/</guid>
       <description></description>
     </item>
     
