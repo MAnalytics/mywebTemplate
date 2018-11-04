@@ -2,27 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plot on Monsuru Adepeju&#39;s Homepage</title>
-    <link>/tags/plot/</link>
+    <link>https://dr-adepeju.netlify.com/tags/plot/</link>
     <description>Recent content in plot on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dr-adepeju.netlify.com/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>European Society of Criminology - Sarajevo, BiH, 29th Auguest 2018</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <title>Hello R Markdown</title>
+      <link>https://dr-adepeju.netlify.com/home/posts/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>Offender residential concentrations: a longitudinal study in the United Kingdom
-Authors:Samuel Langton &amp;amp; Monsuru Adepeju
-Title:Offender residential concentrations: a longitudinal study in the United Kingdom
-This study examines…
-</description>
+      <guid>https://dr-adepeju.netlify.com/home/posts/</guid>
+      <description>knitr::opts_chunk$set(collapse = TRUE)  R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) fit &amp;lt;- lm(dist ~ speed, data = cars) fit  Including Plots You can also embed plots. See Figure \@ref(fig:pie) for example:
+par(mar = c(0, 1, 0, 1)) pie( c(280, 60, 20), c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;), col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;), init.</description>
     </item>
     
   </channel>
