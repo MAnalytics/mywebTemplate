@@ -13,6 +13,10 @@ linktitle = "Example Page"
 [menu.tutorial]
   parent = "Example Topic"
   weight = 1
+
+[menu.tutorial]
+  parent = "Example Topiccc"
+  weight = 2
 +++
 
 In this tutorial, I'll share my top 10 tips for getting started with Academic:

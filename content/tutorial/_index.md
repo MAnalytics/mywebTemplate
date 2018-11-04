@@ -10,18 +10,14 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.tutorial]
-  name = "Overview"
+  name = "BDC Seminar Series"
   weight = 1
 +++
 
-This feature can be used for publishing content such as:
+A fortnightly seminar series aimed at addressing substantive theoretical, empirical and methodological developments in the study of crime and well-being. The seminars are being delivered by a combination of internal and external speakers, are open to all members of the public.
 
-* **Project or software documentation**
-* **Online courses**
-* **Tutorials**
-
-The parent folder may be renamed, for example, to `docs` for project documentation or `course` for creating an online course.
-
-To disable this feature, either delete the parent folder, or set `draft = true` in the front matter of all its pages. 
-
-After renaming or deleting the parent folder, you may wish to update any `[[menu.main]]` menu links to it in the `config.toml`. 
+* **Next Seminar Date: Tuesday, 17th November 2018**
+* **Venue: Geoffrey Manton LT7**
+* **Title: TBA**
+* **Abstract:**
+* **Speaker:**
