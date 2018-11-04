@@ -16,8 +16,5 @@ type = "docs"  # Do not modify.
 
 A fortnightly seminar series aimed at addressing substantive theoretical, empirical and methodological developments in the study of crime and well-being. The seminars are being delivered by a combination of internal and external speakers, are open to all members of the public.
 
-* **Next Seminar Date: Tuesday, 17th November 2018**
-* **Venue: Geoffrey Manton LT7**
-* **Title: TBA**
-* **Abstract:**
-* **Speaker:**
+For information about the next seminar, please contact:
+Dr. Monsuru Adepeju
