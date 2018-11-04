@@ -315,8 +315,8 @@ enableGitInfo = false
 #    url = "files/cv.pdf"
 #    weight = 7
 
-[params.logo]
-url="static/img/DataTekaHex.png"
+[[params.logo]]
+url="https://github.com/geoMADE/mons_Website/blob/master/static/img/DataTekaHex.png"
 width=50
 height=50
 alt="Logo"
