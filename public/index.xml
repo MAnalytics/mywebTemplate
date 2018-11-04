@@ -40,7 +40,7 @@
 
 &lt;p&gt;&lt;strong&gt;The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;#&lt;img src=&#34;/static/img/DataTekaHex.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;DataTekaHex.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;#&lt;img src=&#34;https://github.com/geoMADE/mons_Website/blob/master/static/img/DataTekaHex.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
 
@@ -51,6 +51,8 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;p&gt;&lt;strong&gt;Speaker:&lt;/strong&gt;
 Dr Monsuru Adepeju&lt;/p&gt;
+
+&lt;p&gt;#headers/bubbles-wide.jpg&amp;rdquo;  # Image path relative to your &lt;code&gt;static/img/&lt;/code&gt; folder.&lt;/p&gt;
 </description>
     </item>
     
