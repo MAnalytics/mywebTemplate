@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.tutorial]
-  name = "BDC Seminar Series"
+  name = "BDC Seminar Series 18/19"
   weight = 1
 +++
 
