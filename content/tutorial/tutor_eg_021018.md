@@ -1,5 +1,7 @@
 +++
 title = "BDC Seminar | 2nd October, 2018"
+#active = true
+##date = 2017-10-15T00:00:00
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -15,11 +17,8 @@ type = "docs"  # Do not modify.
   name = "S1. 2/10/2018"
   weight = 1
 
-[header]
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
+#[]("/tutorial/tutor_eg_021018_files/featured.jpg"")
+
 +++
 
 **Title:**
@@ -34,4 +33,6 @@ This research deploys a novel `inequity` kmeans clustering (iClustering) techniq
 **Speaker:**
 Dr Monsuru Adepeju
 
-#headers/bubbles-wide.jpg"  # Image path relative to your `static/img/` folder.
+**Organiser:**
+Dr Monsuru Adepeju
+

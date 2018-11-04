@@ -23,7 +23,7 @@
   {
     "authors": null,
     "categories": null,
-    "content": "Title:\nThe crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)\nAbstract:\nSince the 1990s, a dramatic decline in recorded crime has been observed across many developed polities (Aebi and Linde, 2010; Tseloni et al., 2010). Set against this finding, there has been limited attention paid the crime drop at the neighbourhood level, an exception being Bannister et al (2017) who found marked distinction in the crime drop trajectories of different neighbourhood groupings in Glasgow. Building upon this finding, this paper seeks to explore whether the crime drop has resulted in an increase in inequalities in the exposure to crime. The analysis utilises police recorded property and violent crime in Glasgow and Birmingham, enabling assessment of whether any observed shifting inequalities in the exposure to crime can be considered place specific or part of wider area trends. This research deploys a novel inequity kmeans clustering (iClustering) technique (Adepeju, Langton and Bannister, in preparation) to examine the longitudinal crime trajectories of neighbourhoods. This technique offers substantive advantage over existing longitudinal clustering techniques (Curman et al., 2015; Weisburd et al., 2004; Wheeler et al., 2015) enabling clearer delineation of neighbourhood crime trajectories. The results indicate growing inequalities in the exposure to crime and may be applied, in an era of fiscal austerity, to help target and prioritise policing interventions.\nSpeaker: Dr Monsuru Adepeju\n#headers/bubbles-wide.jpg\u0026rdquo; # Image path relative to your static/img/ folder.\n",
+    "content": "Title:\nThe crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)\nAbstract:\nSince the 1990s, a dramatic decline in recorded crime has been observed across many developed polities (Aebi and Linde, 2010; Tseloni et al., 2010). Set against this finding, there has been limited attention paid the crime drop at the neighbourhood level, an exception being Bannister et al (2017) who found marked distinction in the crime drop trajectories of different neighbourhood groupings in Glasgow. Building upon this finding, this paper seeks to explore whether the crime drop has resulted in an increase in inequalities in the exposure to crime. The analysis utilises police recorded property and violent crime in Glasgow and Birmingham, enabling assessment of whether any observed shifting inequalities in the exposure to crime can be considered place specific or part of wider area trends. This research deploys a novel inequity kmeans clustering (iClustering) technique (Adepeju, Langton and Bannister, in preparation) to examine the longitudinal crime trajectories of neighbourhoods. This technique offers substantive advantage over existing longitudinal clustering techniques (Curman et al., 2015; Weisburd et al., 2004; Wheeler et al., 2015) enabling clearer delineation of neighbourhood crime trajectories. The results indicate growing inequalities in the exposure to crime and may be applied, in an era of fiscal austerity, to help target and prioritise policing interventions.\nSpeaker: Dr Monsuru Adepeju\nOrganiser: Dr Monsuru Adepeju\n",
     "date": 1536447600,
     "expirydate": -62135596800,
     "kind": "page",
@@ -243,5 +243,24 @@
     "tags": null,
     "title": "Slides",
     "type": "slides"
+  },
+  {
+    "authors": null,
+    "categories": null,
+    "content": "\rR Markdown\rThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\nsummary(cars)\r## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00\r\rIncluding Plots\rYou can also embed plots, for example:\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\r",
+    "date": -62135596800,
+    "expirydate": -62135596800,
+    "kind": "page",
+    "lang": "en",
+    "lastmod": -62135596800,
+    "objectID": "a1ae512ef4ea852f89e89e151cf17c39",
+    "permalink": "/tutorial/tutor_eg_311018/",
+    "publishdate": "0001-01-01T00:00:00Z",
+    "relpermalink": "/tutorial/tutor_eg_311018/",
+    "section": "tutorial",
+    "summary": "R Markdown\rThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:",
+    "tags": null,
+    "title": "rmdf",
+    "type": "tutorial"
   }
 ]
