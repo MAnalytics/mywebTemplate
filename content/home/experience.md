@@ -21,7 +21,7 @@ date_format = "November 2018"
 
 [[experience]]
   title = "Senior Research Associate"
-  company = "Crime & Well_Being Big Data Centre | Manchester Metropolitan University"
+  company = "Crime and Well_Being Big Data Centre | Manchester Metropolitan University"
   company_url = "https://www2.mmu.ac.uk/"
   location = "United Kingdom"
   date_start = "2018-04-01"

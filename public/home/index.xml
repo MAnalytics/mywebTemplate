@@ -141,18 +141,5 @@ I am a teaching instructor for the following courses at University X:
       <description></description>
     </item>
     
-    <item>
-      <title></title>
-      <link>/home/hero/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/hero/</guid>
-      <description>##+++
-Hero widget. ##widget = &amp;ldquo;hero&amp;rdquo; ##active = true ##date = 2017-10-15T00:00:00
-##title = &amp;ldquo;Academic&amp;rdquo;
-Order that this section will appear in. ##weight = 3
-Overlay a color or image (optional). Deactivate an option by commenting out the line, prefixing it with #. ##[header] ##overlay_color = &amp;ldquo;#666&amp;rdquo; # An HTML color value. ##overlay_img = &amp;ldquo;headers/bubbles-wide.jpg&amp;rdquo; # Image path relative to your static/img/ folder. ##overlay_filter = 0.5 # Darken the image.</description>
-    </item>
-    
   </channel>
 </rss>
