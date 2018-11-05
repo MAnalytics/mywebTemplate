@@ -41,7 +41,7 @@ weight = 5
 
 # Welcome
 
-Welcome to my website. The purpose of this website is to provide a platform for a high-level description of my some of my research work, especially those ones with real practical applications. These are featured in the **Tools** section of this website. I hope you find the contents useful. Enjoy!
+Welcome to my website. The purpose of this website is to provide a platform for a high-level description of my some of my research work, especially those ones with real practical and further research applications. These are featured in the **Tools** section of this website. I hope you find the contents useful. Enjoy!
 
 # About me
 
