@@ -34,7 +34,7 @@ weight = 5
 
 [[education.courses]]
   course = "ND in Surveying and Geoinformatics"
-  institution = "Federal School of Surveying, Oyo, Nigeria (distinction)"
+  institution = "Federal School of Surveying, Oyo, Nigeria (Distinction)"
   year = 2002
  
 +++

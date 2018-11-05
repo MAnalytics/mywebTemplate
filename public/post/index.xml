@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Monsuru Adepeju&#39;s Homepage</title>
-    <link>/post/</link>
+    <link>https://madepeju.com/post/</link>
     <description>Recent content in Posts on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://madepeju.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BDC Seminar Series - 2nd October 2018</title>
-      <link>/post/getting-started/</link>
+      <link>https://madepeju.com/post/getting-started/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://madepeju.com/post/getting-started/</guid>
       <description>Authors: Monsuru Adepeju, Samuel Langton, and Jon Bannister
 Abstract Since the 1990s, a dramatic decline in recorded crime has been observed across many developed polities (Aebi and Linde, 2010; Tseloni et al., 2010). Set against this finding, there has been limited attention paid the crime drop at the neighbourhood level, an exception being Bannister et al (2017) who found marked distinction in the crime drop trajectories of different neighbourhood groupings in Glasgow.</description>
     </item>
     
     <item>
       <title>European Society of Criminology - 29th August 2018</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://madepeju.com/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://madepeju.com/post/2015-07-23-r-rmarkdown/</guid>
       <description>Title:Offender residential concentration: a longitudinal study in the United Kingdom
 Authors:Samuel Langton &amp;amp; Monsuru Adepeju
 Abstract:This study examines..
