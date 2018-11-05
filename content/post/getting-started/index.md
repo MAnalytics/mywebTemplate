@@ -20,7 +20,7 @@ summary = "**Title: The crime drop and neighbourhood inequalities in the exposur
    # Caption (optional)
    #caption = "Image credit: [**Sam_langton**](https://unsplash.com/photos/CpkOjOcXdUY)"
  
- caption = "Image credit: [**Steph_W.**](https://github.com/geoMADE/mons_Website/blob/master/content/post/getting-started/featured.jpg)"
+ caption = "Image credit: [**Sam_Langton**](https://github.com/geoMADE/mons_Website/blob/master/content/post/getting-started/featured.jpg)"
  
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
