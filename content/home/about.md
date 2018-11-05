@@ -24,17 +24,17 @@ weight = 5
 
 [[education.courses]]
   course = "MSc in Geographic Information Science"
-  institution = "University College London (Grade: Distinction)"
+  institution = "University College London"
   year = 2012
 
 [[education.courses]]
   course = "BSc in Surveying and Geoinformatics"
-  institution = "University of Lagos, Nigeria (Grade: First Class)"
+  institution = "University of Lagos, Nigeria"
   year = 2009
 
 [[education.courses]]
   course = "ND in Surveying and Geoinformatics"
-  institution = "Federal School of Surveying, Oyo, Nigeria (Grade: Distinction)"
+  institution = "Federal School of Surveying, Oyo, Nigeria"
   year = 2002
  
 +++
