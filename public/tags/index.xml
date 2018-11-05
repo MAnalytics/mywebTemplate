@@ -22,29 +22,20 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <title>Delineators</title>
+      <link>/tags/delineators/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/delineators/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deep Learning2</title>
-      <link>/tags/deep-learning2/</link>
+      <title>Predictors</title>
+      <link>/tags/predictors/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/deep-learning2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/tags/demo/</guid>
+      <guid>/tags/predictors/</guid>
       <description></description>
     </item>
     
@@ -54,6 +45,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulators</title>
+      <link>/tags/simulators/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/simulators/</guid>
       <description></description>
     </item>
     

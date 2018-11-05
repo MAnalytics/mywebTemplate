@@ -34,16 +34,16 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Delineators"
+  tag = "Delineators"
 
 [[filter]]
-  name = "Deep Learning2"
-  tag = "Deep Learning2"
+  name = "Simulators"
+  tag = "Simulators"
 
 [[filter]]
-  name = "Other"
-  tag = "Demo"
+  name = "Predictors"
+  tag = "Predictors"
 
 +++
 
