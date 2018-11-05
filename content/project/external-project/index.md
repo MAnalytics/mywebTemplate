@@ -6,7 +6,7 @@ title = "Hotspot Predictors"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "A set of tools for generating predictive hotspots of geographical point processes"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

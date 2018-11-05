@@ -110,7 +110,7 @@
     "publishdate": "2016-04-27T00:00:00+01:00",
     "relpermalink": "/project/internal-project/",
     "section": "project",
-    "summary": "An example of using the in-built project page.",
+    "summary": "A set of tools for delineating geographical space",
     "tags": [
       "Delineators"
     ],
@@ -131,7 +131,7 @@
     "publishdate": "2016-04-27T00:00:00+01:00",
     "relpermalink": "/project/external-project/",
     "section": "project",
-    "summary": "An example of linking directly to an external project website using `external_link`.",
+    "summary": "A set of tools for generating predictive hotspots of geographical point processes",
     "tags": [
       "Predictors"
     ],
