@@ -110,7 +110,7 @@
     "publishdate": "2016-04-27T00:00:00+01:00",
     "relpermalink": "/project/internal-project/",
     "section": "project",
-    "summary": "A set of tools for delineating geographical space",
+    "summary": "A set of tools for delineating a geographical space",
     "tags": [
       "Delineators"
     ],
@@ -152,7 +152,7 @@
     "publishdate": "2016-04-27T00:00:00+01:00",
     "relpermalink": "/project/internal-project2/",
     "section": "project",
-    "summary": "A framework for simulating different types of space-time patterns of a geographical process",
+    "summary": "A framework for simulating different kinds of space-time patterns of a geographical process",
     "tags": [
       "Simulators"
     ],

@@ -6,7 +6,7 @@ title = "Simulators: Space-time Point Patterns"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "A framework for simulating different types of space-time patterns of a geographical process"
+summary = "A framework for simulating different kinds of space-time patterns of a geographical process"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -6,7 +6,7 @@ title = "Delineators: Geographical Space"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "A set of tools for delineating geographical space"
+summary = "A set of tools for delineating a geographical space"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
