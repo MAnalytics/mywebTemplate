@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Geographical Delineators"
+title = "Delineators: Geographical Space"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00

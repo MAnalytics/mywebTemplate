@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Space-time Point Pattern Simulators"
+title = "Simulators: Space-time Point Patterns"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00

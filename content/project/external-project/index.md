@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Hotspot Predictors"
+title = "Predictors: Geographical Processes"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
