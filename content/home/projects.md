@@ -4,8 +4,8 @@ widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Analytical Tools"
-subtitle = ""
+title = "Open-tools"
+subtitle = "Open-source spatial analytics"
 
 # Order that this section will appear in.
 weight = 50

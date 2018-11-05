@@ -24,25 +24,25 @@ weight = 5
 
 [[education.courses]]
   course = "MSc in Geographic Information Science"
-  institution = "University College London"
+  institution = "University College London (Grade: Distinction)"
   year = 2012
 
 [[education.courses]]
   course = "BSc in Surveying and Geoinformatics"
-  institution = "University of Lagos, Nigeria"
+  institution = "University of Lagos, Nigeria (First-Class)"
   year = 2009
 
 [[education.courses]]
   course = "ND in Surveying and Geoinformatics"
-  institution = "Federal School of Surveying, Oyo, Nigeria"
+  institution = "Federal School of Surveying, Oyo, Nigeria (distinction)"
   year = 2002
  
 +++
 
 # Welcome
 
-Welcome to my website. The purpose of this website is to provide a platform for a high-level description of my some of my research work, especially those ones with real practical and further research applications. These are featured in the **Tools** section of this website. I hope you find the contents useful. Enjoy!
+Welcome to my website. The purpose of this website is to provide a platform for a high-level description of my some of my research work, especially those ones with real practical and further research applications. These are featured in the **Open-tools** section of this website. I hope you find the contents useful. Enjoy!
 
 # About me
 
-I am a geo-informatician by training, specialising in crime and police data analytics. Based in MMU Crime and Well-Being Big Data Centre, my current research focus on the development of measures of crime inequalities and risk indicators, taking into account the identified drivers and patterns of crime. Prior to joining the MMU, I have gained extensive experience working with the law enforcements in the areas of developing analytical tools for informing decision-making in a real-life operational environment. Some of my work have influenced police practices and helped to reduce crime levels in major cities of the UK. Check-out my GitHub page (https://github.com/geoMADE) for some useful crime analytical tools. 
+I am a geo-informatician by training, specialising in big data, crime and police analytics. Based in MMU Crime and Well-Being Big Data Centre, my current research focus on the development of measures of crime inequalities and risk indicators, taking into account the identified drivers and patterns of crime. Prior to joining the MMU, I have gained extensive experience working with the law enforcements in the areas of developing analytical tools for informing decision-making in a real-life operational environment. Some of my work have influenced police practices and helped to reduce crime levels in major cities of the UK. Check-out my GitHub page (https://github.com/geoMADE) for some useful crime analytical tools. 

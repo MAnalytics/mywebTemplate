@@ -6,11 +6,13 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://dr-adepeju.netlify.com"
+baseurl = "https://madepeju.com"
 
 # Title of your site
 icon = "envelope"
 title = "Monsuru Adepeju's Homepage"
+
+
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -53,6 +55,9 @@ enableGitInfo = false
   #avatar = "portrait.jpg"
   # Your details.
   name = "Dr. Monsuru Adepeju"
+  
+  #themeColor = "blue" # define a theme color (this will colorize the android address-bar)
+
   role = "Senior Research Associate"
 
   # Organizations/Affiliations.
@@ -98,7 +103,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+ color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -115,7 +120,7 @@ enableGitInfo = false
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-  logo = ""
+  logo = "DataTekaHex.png"
 
   # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -134,7 +139,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -284,7 +289,7 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Tools"
+  name = "Open-tools"
   url = "#projects"
   weight = 2
   
@@ -319,12 +324,6 @@ enableGitInfo = false
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 7
-
-#[[params.logo]]
-#url="https://github.com/geoMADE/mons_Website/blob/master/static/img/DataTekaHex.png"
-#width=50
-#height=50
-#alt="Logo"
 
 # Search.
 [params.search]
