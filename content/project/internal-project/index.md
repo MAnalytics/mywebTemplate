@@ -38,15 +38,16 @@ This tool creates a regular grid system over a geographical space. The tool requ
 **Insert figs. here:**
 
 **Applications**
+
 The use of arbitrary grid system is common in crime analytics for some special reasons, which include confidentiality protection and as alternative in absence of a reasonably small adminstrative units. In particular, the grid systems have been used in hotspot policing in order to enable a more focussed targetting of problematic areas (Mohler et al. 2011).
 
 This tool can be downloaded directly from: https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area   
 
 # 2. BDC_GeoConverter: 
 
-This tool is developed to complement an online tool called `Geoconverter` (http://geoconvert.mimas.ac.uk/index.html). The Geoconverter is used for matching changed geographical units, or apportioning a dataset from an original geographical demarcation to a modified/changed geographical demarcation. For example, during 2011 UK census, it is observed that some census units, namely LSOAs and OAs, have been modified (either merged or split) when compared to their corresponding 2001 units. In Birmingham city for example, 10%* of 2011 LSOA units were affected. 
+This tool is developed to complement an online tool called `Geoconverter` (http://geoconvert.mimas.ac.uk/index.html). The Geoconverter is used for matching changed geographical units, or apportioning a dataset from an original geographical demarcation to a modified/changed geographical demarcation. For example, during 2011 UK census, it is observed that some census units, namely LSOAs and OAs, have been modified (either merged or split) when compared to their corresponding 2001 units. In Birmingham city for example, 10%* of 2011 LSOA units were affected. In a longitudinal analysis as an example, the aforementioned changes is `problematic`. 
 
-In a longitudinal analysis as an example, the aforementioned changes is `problematic`. In an effort to address this issue, the online Geoconverter tool is created, in order to apportion any data from 2001 census demarcation to 2011 census demarcation, or vice versa. Alternatively, is tool is used to generate a `look-up table` that provides the details those changes for the entire UK. For example, for any given 2001 unit code, the look-up table provides the corresponding (set of) 2011 unit codes and the ratio of their split. The table will give "1" for any unit that remain the same in both years.  
+In an effort to address this issue, the online Geoconverter tool is created, in order to apportion any data from 2001 census demarcation to 2011 census demarcation, or vice versa. Alternatively, is tool is used to generate a `look-up table` that provides the details those changes for the entire UK. For example, for any given 2001 unit code, the look-up table provides the corresponding (set of) 2011 unit codes and the ratio of their split. The table will give "1" for any unit that remain the same in both years.  
 
 The look-up table is particularly useful for anyone who might wish to carry out the apportioning task programmatically.
 

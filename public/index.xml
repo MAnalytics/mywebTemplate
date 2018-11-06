@@ -153,16 +153,17 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;p&gt;&lt;strong&gt;Insert figs. here:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Applications&lt;/strong&gt;
-The use of arbitrary grid system is common in crime analytics for some special reasons, which include confidentiality protection and as alternative in absence of a reasonably small adminstrative units. In particular, the grid systems have been used in hotspot policing in order to enable a more focussed targetting of problematic areas (Mohler et al. 2011).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Applications&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The use of arbitrary grid system is common in crime analytics for some special reasons, which include confidentiality protection and as alternative in absence of a reasonably small adminstrative units. In particular, the grid systems have been used in hotspot policing in order to enable a more focussed targetting of problematic areas (Mohler et al. 2011).&lt;/p&gt;
 
 &lt;p&gt;This tool can be downloaded directly from: &lt;a href=&#34;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area&#34; target=&#34;_blank&#34;&gt;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;2-bdc-geoconverter&#34;&gt;2. BDC_GeoConverter:&lt;/h1&gt;
 
-&lt;p&gt;This tool is developed to complement an online tool called &lt;code&gt;Geoconverter&lt;/code&gt; (&lt;a href=&#34;http://geoconvert.mimas.ac.uk/index.html&#34; target=&#34;_blank&#34;&gt;http://geoconvert.mimas.ac.uk/index.html&lt;/a&gt;). The Geoconverter is used for matching changed geographical units, or apportioning a dataset from an original geographical demarcation to a modified/changed geographical demarcation. For example, during 2011 UK census, it is observed that some census units, namely LSOAs and OAs, have been modified (either merged or split) when compared to their corresponding 2001 units. In Birmingham city for example, 10%* of 2011 LSOA units were affected.&lt;/p&gt;
+&lt;p&gt;This tool is developed to complement an online tool called &lt;code&gt;Geoconverter&lt;/code&gt; (&lt;a href=&#34;http://geoconvert.mimas.ac.uk/index.html&#34; target=&#34;_blank&#34;&gt;http://geoconvert.mimas.ac.uk/index.html&lt;/a&gt;). The Geoconverter is used for matching changed geographical units, or apportioning a dataset from an original geographical demarcation to a modified/changed geographical demarcation. For example, during 2011 UK census, it is observed that some census units, namely LSOAs and OAs, have been modified (either merged or split) when compared to their corresponding 2001 units. In Birmingham city for example, 10%* of 2011 LSOA units were affected. In a longitudinal analysis as an example, the aforementioned changes is &lt;code&gt;problematic&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;In a longitudinal analysis as an example, the aforementioned changes is &lt;code&gt;problematic&lt;/code&gt;. In an effort to address this issue, the online Geoconverter tool is created, in order to apportion any data from 2001 census demarcation to 2011 census demarcation, or vice versa. Alternatively, is tool is used to generate a &lt;code&gt;look-up table&lt;/code&gt; that provides the details those changes for the entire UK. For example, for any given 2001 unit code, the look-up table provides the corresponding (set of) 2011 unit codes and the ratio of their split. The table will give &amp;ldquo;1&amp;rdquo; for any unit that remain the same in both years.&lt;/p&gt;
+&lt;p&gt;In an effort to address this issue, the online Geoconverter tool is created, in order to apportion any data from 2001 census demarcation to 2011 census demarcation, or vice versa. Alternatively, is tool is used to generate a &lt;code&gt;look-up table&lt;/code&gt; that provides the details those changes for the entire UK. For example, for any given 2001 unit code, the look-up table provides the corresponding (set of) 2011 unit codes and the ratio of their split. The table will give &amp;ldquo;1&amp;rdquo; for any unit that remain the same in both years.&lt;/p&gt;
 
 &lt;p&gt;The look-up table is particularly useful for anyone who might wish to carry out the apportioning task programmatically.&lt;/p&gt;
 
