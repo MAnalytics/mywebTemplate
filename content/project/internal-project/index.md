@@ -42,4 +42,4 @@ This tool can be downloaded directly from: https://github.com/geoMADE/Creating-a
 # 2. Geo_Converter: 
 This tool is developed to complement an online tool called `Geoconverter` (http://geoconvert.mimas.ac.uk/index.html). The Geoconverted is an online tool for matching changed geographical units in the UK. 
 
-**Problem:** Between 2001 and 2011 census periods in the UK, a number of smaller census units, such as LSOA and OA have changed. 
+**Problem:** Between 2001 and 2011 census periods, a number of smaller census units, such as LSOA and OA have changed.... 
