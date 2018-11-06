@@ -143,15 +143,18 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 
-&lt;p&gt;This section describes a set of analytical tools for delineating a geographical space. A &lt;code&gt;geographical space&lt;/code&gt; refers to a large geographical area, such as a town or a  city, subdivided into a set of smaller administrative or non-administrative units.  An example of an administrative unit is the district, neighbourhood, counties or ward demarcations, while an example of a non-administrative unit is a system of regular grid or street network.&lt;/p&gt;
+&lt;p&gt;This section describes a set of analytical tools for delineating a geographical space. A &lt;code&gt;geographical space&lt;/code&gt; refers to a large geographical area, such as a town or a  city, subdivided into a set of smaller administrative or non-administrative units.  An example of an administrative unit is a district, neighbourhood, county or ward demarcation, while an example of a non-administrative unit is a system of regular grid or street network.&lt;/p&gt;
 
 &lt;p&gt;In spatial analysis, it is often required to &lt;strong&gt;modify&lt;/strong&gt; (as in the example of an administrative unit) or &lt;strong&gt;create&lt;/strong&gt; (as in the example of a non-administrative unit) some of these units, based on a given geographical specification. The following subsection will introduce two tools and how to download them.&lt;/p&gt;
 
 &lt;h1 id=&#34;1-spatial-grid-creator&#34;&gt;1. Spatial grid creator:&lt;/h1&gt;
 
-&lt;p&gt;This tool creates a system of regular grids over a geographical space. Given a spatial boundary of a city (in Esri format - .shp), this tool would detect the spatial extent of the city and generate a system of square grid over the city, in accordance with the specified size. Below are examples regular grid systems of varying sizes created over the City of Chicago.&lt;/p&gt;
+&lt;p&gt;This tool creates a regular grid system over a geographical space. The tool requires a user to supply a spatial boundary of an area (in Esri format - .shp) and specify the grid size. The tool detects the spatial extent of the boundary and automatically create a system of regular grids, of the size specified, over the area. Below are examples regular grid systems of varying sizes, created by this tool, over the City of Chicago.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Insert figs. here:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Applications&lt;/strong&gt;
+The use of arbitrary grid system is common in crime analytics for some special reasons, which include the protection of confidentiality and lack of availability of adminstrative units. In particular, the grid systems have been used in hotspot policing in order to allow a more focussed targetting of problematic areas (Mohler et al. 2011).&lt;/p&gt;
 
 &lt;p&gt;This tool can be downloaded directly from: &lt;a href=&#34;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-a-study-area&#34; target=&#34;_blank&#34;&gt;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-a-study-area&lt;/a&gt;&lt;/p&gt;
 

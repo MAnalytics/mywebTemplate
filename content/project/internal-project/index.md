@@ -28,14 +28,17 @@ external_link = ""
 
 # Introduction
 
-This section describes a set of analytical tools for delineating a geographical space. A `geographical space` refers to a large geographical area, such as a town or a  city, subdivided into a set of smaller administrative or non-administrative units.  An example of an administrative unit is the district, neighbourhood, counties or ward demarcations, while an example of a non-administrative unit is a system of regular grid or street network.
+This section describes a set of analytical tools for delineating a geographical space. A `geographical space` refers to a large geographical area, such as a town or a  city, subdivided into a set of smaller administrative or non-administrative units.  An example of an administrative unit is a district, neighbourhood, county or ward demarcation, while an example of a non-administrative unit is a system of regular grid or street network.
 
 In spatial analysis, it is often required to **modify** (as in the example of an administrative unit) or **create** (as in the example of a non-administrative unit) some of these units, based on a given geographical specification. The following subsection will introduce two tools and how to download them. 
 
 # 1. Spatial grid creator: 
-This tool creates a system of regular grids over a geographical space. Given a spatial boundary of a city (in Esri format - .shp), this tool would detect the spatial extent of the city and generate a system of square grid over the city, in accordance with the specified size. Below are examples regular grid systems of varying sizes created over the City of Chicago.
+This tool creates a regular grid system over a geographical space. The tool requires a user to supply a spatial boundary of an area (in Esri format - .shp) and specify the grid size. The tool detects the spatial extent of the boundary and automatically create a system of regular grids, of the size specified, over the area. Below are examples regular grid systems of varying sizes, created by this tool, over the City of Chicago.
 
 **Insert figs. here:**
+
+**Applications**
+The use of arbitrary grid system is common in crime analytics for some special reasons, which include the protection of confidentiality and lack of availability of adminstrative units. In particular, the grid systems have been used in hotspot policing in order to allow a more focussed targetting of problematic areas (Mohler et al. 2011).
 
 This tool can be downloaded directly from: https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-a-study-area   
 
