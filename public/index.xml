@@ -185,7 +185,13 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 
-&lt;p&gt;In geographical point data analysis, spatial aggregation boundary delineations&amp;hellip;.&lt;/p&gt;
+&lt;p&gt;This section introduces a set of predictive analytics for different geographical processes, such as crime and footfalls. The links to downloading these tools are also provided.&lt;/p&gt;
+
+&lt;p&gt;#1. Crime Hotspot Predictors&lt;/p&gt;
+
+&lt;p&gt;#2. Footfall Predictor&lt;/p&gt;
+
+&lt;p&gt;This tool was developed as a part of &lt;a href=&#34;http://surf.leeds.ac.uk/&#34; target=&#34;_blank&#34;&gt;Surf Project&lt;/a&gt; funded by &lt;a href=&#34;https://esrc.ukri.org/funding/funding-opportunities/future-research-leaders/&#34; target=&#34;_blank&#34;&gt;ESRC Future Research Leaders&lt;/a&gt; scheme. The tool, named as &lt;code&gt;Leeds Footfall Predictor&lt;/code&gt;, built on the work led by [Nick Malleson]() which determined that the daily footfall rates observed in the Leeds city centre can be explained in terms of external variables, such as temperature, rainfall and holidays. The research involved the application of different machine learning algorithms to a combination of these variables (predictors) and subsequently compared the accuracies of the former. It was established that the &lt;code&gt;Random Forest&lt;/code&gt; algorithm &lt;a href=&#34;https://link.springer.com/article/10.1023/A:1010933404324&#34; target=&#34;_blank&#34;&gt;Breiman, 2001&lt;/a&gt; is the most accurate for forecasting footfall rates. Therefore, the Random Forest algorithm, as implemented in R &lt;a href=&#34;https://www.r-project.org/doc/Rnews/Rnews_2002-3.pdf&#34; target=&#34;_blank&#34;&gt;Liaw and Wiener, 2002&lt;/a&gt;, was employed in the development of the ‘Leeds Footfall Predictor’, using the &lt;code&gt;RShinydashboard&lt;/code&gt; platform.&lt;/p&gt;
 </description>
     </item>
     
