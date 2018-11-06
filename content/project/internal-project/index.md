@@ -37,7 +37,7 @@ This tool creates a system of regular grids over a geographical space. Given a s
 
 **Insert figs. here:**
 
-This tool can be downloaded directly from: https://github.com/geoMADE/Creating-a-spatial-grid-system-over-a-study-area   
+This tool can be downloaded directly from: https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-a-study-area   
 
 # 2. Geo_Converter: 
 This tool is developed to complement an online tool called `Geoconverter` (http://geoconvert.mimas.ac.uk/index.html). The Geoconverted is an online tool for matching changed geographical units in the UK. 
