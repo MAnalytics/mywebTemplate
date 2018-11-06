@@ -157,7 +157,7 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;p&gt;The use of arbitrary grid system is common in crime analytics for some special reasons, which include confidentiality protection and as alternative in absence of a reasonably small adminstrative units. In particular, the grid systems have been used in hotspot policing in order to enable a more focussed targetting of problematic areas (Mohler et al. 2011).&lt;/p&gt;
 
-&lt;p&gt;This tool can be downloaded directly from: &lt;a href=&#34;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area&#34; target=&#34;_blank&#34;&gt;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This tool can be downloaded directly from &lt;a href=&#34;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;2-bdc-geoconverter&#34;&gt;2. BDC_GeoConverter:&lt;/h1&gt;
 
@@ -167,11 +167,11 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;p&gt;The look-up table is particularly useful for anyone who might wish to carry out the apportioning task programmatically.&lt;/p&gt;
 
-&lt;p&gt;Now, the &lt;code&gt;BDC_Geoconverter&lt;/code&gt; is created to deal with one key problem that is not addressed by the online Geoconverter. The online Geoconverter fails to capture some OAs that exist in 2001 and still exist in 2011, but have now been renamed (i.e. re-coded). This scenario is most common in Scotland area where high-rise building were demolished and re-built as smaller building units.&lt;/p&gt;
+&lt;p&gt;Now, the &lt;code&gt;BDC_Geoconverter&lt;/code&gt; is created to deal with one key problem that is not addressed by the online Geoconverter. The online Geoconverter fails to capture some OAs that exist in 2001 and still exist in 2011, but have now been renamed (i.e. re-coded). This scenario is most common in Scotland area where high-rise buildings were demolished and re-built as smaller building units.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Please note&lt;/strong&gt; that the work of BDC_Geoconverter still depends largely on the look-up table generated from the online Geoconverter.&lt;/p&gt;
 
-&lt;p&gt;This tool can be downloaded directly from: &lt;a href=&#34;https://github.com/MAnalytics/BDC-Geoconverter&#34; target=&#34;_blank&#34;&gt;https://github.com/MAnalytics/BDC-Geoconverter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This tool can be downloaded directly from &lt;a href=&#34;https://github.com/MAnalytics/BDC-Geoconverter&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

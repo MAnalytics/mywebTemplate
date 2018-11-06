@@ -41,7 +41,7 @@ This tool creates a regular grid system over a geographical space. The tool requ
 
 The use of arbitrary grid system is common in crime analytics for some special reasons, which include confidentiality protection and as alternative in absence of a reasonably small adminstrative units. In particular, the grid systems have been used in hotspot policing in order to enable a more focussed targetting of problematic areas (Mohler et al. 2011).
 
-This tool can be downloaded directly from: https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area   
+This tool can be downloaded directly from [here](https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area)   
 
 # 2. BDC_GeoConverter: 
 
@@ -51,11 +51,11 @@ In an effort to address this issue, the online Geoconverter tool is created, in 
 
 The look-up table is particularly useful for anyone who might wish to carry out the apportioning task programmatically.
 
-Now, the `BDC_Geoconverter` is created to deal with one key problem that is not addressed by the online Geoconverter. The online Geoconverter fails to capture some OAs that exist in 2001 and still exist in 2011, but have now been renamed (i.e. re-coded). This scenario is most common in Scotland area where high-rise building were demolished and re-built as smaller building units.
+Now, the `BDC_Geoconverter` is created to deal with one key problem that is not addressed by the online Geoconverter. The online Geoconverter fails to capture some OAs that exist in 2001 and still exist in 2011, but have now been renamed (i.e. re-coded). This scenario is most common in Scotland area where high-rise buildings were demolished and re-built as smaller building units.
 
 **Please note** that the work of BDC_Geoconverter still depends largely on the look-up table generated from the online Geoconverter.
 
-This tool can be downloaded directly from: https://github.com/MAnalytics/BDC-Geoconverter.
+This tool can be downloaded directly from [here](https://github.com/MAnalytics/BDC-Geoconverter).
 
 
 
