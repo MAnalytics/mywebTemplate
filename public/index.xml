@@ -189,6 +189,8 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;h1 id=&#34;1-grid-based-street-based-crime-hotspot-predictors&#34;&gt;1. Grid-based &amp;amp; Street-based Crime Hotspot Predictors&lt;/h1&gt;
 
+&lt;p&gt;&lt;code&gt;Crime Hotspot&lt;/code&gt; refers to an area with a high risk of crime. In practice, police are interested in crime hotspot in order to inform their resources allocation. However, it requires the use of an analytical technique to identify hotspot areas and be able to rank them according to their level of severity. In a short-term crime intervention, the term &lt;code&gt;predictive hotspot&lt;/code&gt; has been coined to represent hotspot types where crimes are expected to occur in a near time period, such as within a day or two. A number of analytical tools have been developed in order to capture this type of hotspot. These are the kind of tools are discussed here.&lt;/p&gt;
+
 &lt;pre&gt;&lt;code&gt;**Self-Exciting Point Process**
 
 **Prospective Space-time Scan Statistics**
