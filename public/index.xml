@@ -157,7 +157,7 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;p&gt;The use of arbitrary grid system is common in crime analytics for some special reasons, which include confidentiality protection and as alternative in absence of a reasonably small adminstrative units. In particular, the grid systems have been used in hotspot policing in order to enable a more focussed targetting of problematic areas (Mohler et al. 2011).&lt;/p&gt;
 
-&lt;p&gt;This tool can be downloaded directly from &lt;a href=&#34;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This tool can be &lt;strong&gt;downloaded&lt;/strong&gt; directly from &lt;a href=&#34;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;2-bdc-geoconverter&#34;&gt;2. BDC_GeoConverter:&lt;/h1&gt;
 
@@ -171,7 +171,7 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;p&gt;&lt;strong&gt;Please note&lt;/strong&gt; that the work of BDC_Geoconverter still depends largely on the look-up table generated from the online Geoconverter.&lt;/p&gt;
 
-&lt;p&gt;This tool was originally developed for the &lt;a href=&#34;https://www2.mmu.ac.uk/crime-and-policing/big-data-centre/&#34; target=&#34;_blank&#34;&gt;Crime &amp;amp; Well_Being Big Data Centre&lt;/a&gt; and can be downloaded &lt;a href=&#34;https://github.com/MAnalytics/BDC-Geoconverter&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This tool was originally developed for the &lt;a href=&#34;https://www2.mmu.ac.uk/crime-and-policing/big-data-centre/&#34; target=&#34;_blank&#34;&gt;Crime &amp;amp; Well_Being Big Data Centre&lt;/a&gt; and can be &lt;strong&gt;downloaded&lt;/strong&gt; &lt;a href=&#34;https://github.com/MAnalytics/BDC-Geoconverter&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
