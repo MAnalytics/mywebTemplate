@@ -55,7 +55,7 @@ Now, the `BDC_Geoconverter` is created to deal with one key problem that is not 
 
 **Please note** that the work of BDC_Geoconverter still depends largely on the look-up table generated from the online Geoconverter.
 
-This tool can be downloaded directly from [here](https://github.com/MAnalytics/BDC-Geoconverter).
+This tool was originally developed for the [Crime & Well_Being Big Data Centre](https://www2.mmu.ac.uk/crime-and-policing/big-data-centre/) and can be downloaded [here](https://github.com/MAnalytics/BDC-Geoconverter).
 
 
 
