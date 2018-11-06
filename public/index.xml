@@ -154,7 +154,7 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 &lt;p&gt;&lt;strong&gt;Insert figs. here:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Applications&lt;/strong&gt;
-The use of arbitrary grid system is common in crime analytics for some special reasons, which include the protection of confidentiality and lack of availability of adminstrative units. In particular, the grid systems have been used in hotspot policing in order to allow a more focussed targetting of problematic areas (Mohler et al. 2011).&lt;/p&gt;
+The use of arbitrary grid system is common in crime analytics for some special reasons, which include confidentiality protection and as alternative in absence of a reasonably small adminstrative units. In particular, the grid systems have been used in hotspot policing in order to enable a more focussed targetting of problematic areas (Mohler et al. 2011).&lt;/p&gt;
 
 &lt;p&gt;This tool can be downloaded directly from: &lt;a href=&#34;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-a-study-area&#34; target=&#34;_blank&#34;&gt;https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-a-study-area&lt;/a&gt;&lt;/p&gt;
 
