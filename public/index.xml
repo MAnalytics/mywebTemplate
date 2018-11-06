@@ -147,7 +147,7 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;p&gt;In spatial analysis, it is often required to &lt;strong&gt;modify&lt;/strong&gt; (as in the example of an administrative unit) or &lt;strong&gt;create&lt;/strong&gt; (as in the example of a non-administrative unit) some of these units, based on a given geographical specification. The following subsection will introduce two tools and how to download them.&lt;/p&gt;
 
-&lt;h1 id=&#34;1-spatial-grid-creator&#34;&gt;1. Spatial grid creator:&lt;/h1&gt;
+&lt;h1 id=&#34;1-spatial-grid-generator&#34;&gt;1. Spatial grid generator:&lt;/h1&gt;
 
 &lt;p&gt;This tool creates a regular grid system over a geographical space. The tool requires a user to supply a spatial boundary of an area (in Esri format - .shp) and specify the grid size. The tool detects the spatial extent of the boundary and automatically create a system of regular grids, of the size specified, over the area. Below are examples regular grid systems of varying sizes, created by this tool, over the City of Chicago.&lt;/p&gt;
 

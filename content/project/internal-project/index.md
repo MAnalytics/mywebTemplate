@@ -32,7 +32,7 @@ This section describes a set of analytical tools for delineating a geographical 
 
 In spatial analysis, it is often required to **modify** (as in the example of an administrative unit) or **create** (as in the example of a non-administrative unit) some of these units, based on a given geographical specification. The following subsection will introduce two tools and how to download them. 
 
-# 1. Spatial grid creator: 
+# 1. Spatial grid generator: 
 This tool creates a regular grid system over a geographical space. The tool requires a user to supply a spatial boundary of an area (in Esri format - .shp) and specify the grid size. The tool detects the spatial extent of the boundary and automatically create a system of regular grids, of the size specified, over the area. Below are examples regular grid systems of varying sizes, created by this tool, over the City of Chicago.
 
 **Insert figs. here:**
