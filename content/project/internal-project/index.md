@@ -42,7 +42,24 @@ The use of arbitrary grid system is common in crime analytics for some special r
 
 This tool can be downloaded directly from: https://github.com/MAnalytics/Creating-a-spatial-grid-system-over-an-area   
 
-# 2. Geo_Converter: 
-This tool is developed to complement an online tool called `Geoconverter` (http://geoconvert.mimas.ac.uk/index.html). The Geoconverted is an online tool for matching changed geographical units in the UK. 
+# 2. BDC_GeoConverter: 
 
-**Problem:** Between 2001 and 2011 census periods, a number of smaller census units, such as LSOA and OA have changed.... 
+This tool is developed to complement an online tool called `Geoconverter` (http://geoconvert.mimas.ac.uk/index.html). The Geoconverter is used for matching changed geographical units in the UK, or apportioning a dataset from an original geographical demarcation to a modified/changed geographical demarcation. For example, during 2011 census in the UK, it can be observed that some of the census units, namely LSOAs and OAs, have been modified (either merged or split) when compared to their corresponding 2001 census units. In Birmingham city for example, 10%* of 2011 LSOA units have been affected. 
+
+In a longitudinal analysis as an example, the aforementioned changes is `problematic`. In an effort to address this, the Geoconverter tool is created, and to apportion any data from 2001 unit demarcation to 2011 unit demarcation, and vice versa. Alternatively, the tool can be used to generate a `look-up table` that provide a summary of those changes for the entire UK.
+
+The look-up table is particularly useful for anyone who might want to carry out the apportioning tasks programmatically.
+
+Now, the `BDC_Geoconverter` is created to deal with two problems that are not addressed by the online Geoconverter. First, the online Geoconverter fails to capture some OAs that exist in 2001 and still exist in 2011, but have now been renamed. This is scenario is most common in Greater Glasgow where high-rise building were demolished and re-built as smaller building units, and therefore renamed.
+
+Please note that the work of BDC_Geoconverter still depends largely on the look-up table generated from the online Geoconverter.
+
+This tool can be downloaded directly from: https://github.com/MAnalytics/BDC-Geoconverter.
+
+
+
+
+
+
+
+
