@@ -30,7 +30,7 @@ external_link = ""
 
 This section describes a set of analytical tools for delineating a geographical space. A `geographical space` refers to a large geographical area, such as a town or a  city, subdivided into a set of smaller administrative or non-administrative units.  An example of an administrative unit is a district, neighbourhood, county or ward demarcation, while an example of a non-administrative unit is a system of regular grid or street network.
 
-In spatial analysis, it is often required to **modify** (as in the example of an administrative unit) or **create** (as in the example of a non-administrative unit) some of these units, based on a given geographical specification. The following subsection will introduce two tools and how to download them. 
+In spatial analysis, it is often required to **modify** an existing geographical delineation or **create** a new one, based on a given specification. The following subsection will talk about two tools, one for creating a new geographical delineation (demarcation), and the other for modifying an existing geographical delineation. The link to download the tools are also provided.
 
 # 1. Spatial grid generator: 
 This tool creates a regular grid system over a geographical space. The tool requires a user to supply a spatial boundary of an area (in Esri format - .shp) and specify the grid size. The tool detects the spatial extent of the boundary and automatically create a system of regular grids, of the size specified, over the area. Below are examples regular grid systems of varying sizes, created by this tool, over the City of Chicago.
