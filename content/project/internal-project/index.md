@@ -50,7 +50,7 @@ In a longitudinal analysis as an example, the aforementioned changes is `problem
 
 The look-up table is particularly useful for anyone who might want to carry out the apportioning tasks programmatically.
 
-Now, the `BDC_Geoconverter` is created to deal with two problems that are not addressed by the online Geoconverter. First, the online Geoconverter fails to capture some OAs that exist in 2001 and still exist in 2011, but have now been renamed. This is scenario is most common in Greater Glasgow where high-rise building were demolished and re-built as smaller building units, and therefore renamed.
+Now, the `BDC_Geoconverter` is created to deal with two problems that are not addressed by the online Geoconverter. First, the online Geoconverter fails to capture some OAs that exist in 2001 and still exist in 2011, but have now been renamed. In other words, the `codes` have changed. This scenario is most common in Scotland area where high-rise building were demolished and re-built as smaller building units, and therefore renamed.
 
 Please note that the work of BDC_Geoconverter still depends largely on the look-up table generated from the online Geoconverter.
 
