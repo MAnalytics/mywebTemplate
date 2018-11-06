@@ -33,7 +33,7 @@ This section introduces a set of predictive tools for certain geographical proce
 
 # 1. Grid-based Crime Hotspot Predictors
 
-`Crime Hotspot` refers to an area with a high risk of crime. In practice, police are interested in crime hotspot in order to inform crime intervention. However, it requires the use of an analytical technique to identify hotspot areas and be able to rank them according to their level of severity. In a short-term crime intervention, the term `predictive hotspot` has been coined to represent hotspot types where crimes are expected to occur in a very near future, such as within one or two days. A number of analytical tools have been developed in order to model this type of hotspot - these are the types provided. In addition, we provide an idea of the relative accuracies of these techniques.        
+`Crime Hotspot` refers to an area with a high risk of crime. In practice, police are interested in crime hotspot in order to inform crime intervention. However, it requires the use of an analytical technique to identify hotspot areas and be able to rank them according to their level of severity. In a short-term crime intervention, the term `predictive hotspot` has been coined to represent hotspot types where crimes are expected to occur in a very near future, such as within one or two days. A number of analytical tools have been developed in order to model this type of hotspot - these are the types provided here. In addition, we provide an idea of the relative accuracies of these techniques.        
 
 	**Self-Exciting Point Process**
 
