@@ -37,7 +37,7 @@ This tool creates a regular grid system over a geographical space. The tool requ
 
 **Insert figs. here:**
 
-**Applications**
+**Potential Applications:**
 
 The use of arbitrary grid system is common in crime analytics for some special reasons, which include confidentiality protection and as alternative in absence of a reasonably small adminstrative units. In particular, the grid systems have been used in hotspot policing in order to enable a more focussed targetting of problematic areas (Mohler et al. 2011).
 
