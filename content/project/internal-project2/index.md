@@ -28,7 +28,7 @@ external_link = ""
 
 # Introduction
 
-Geographical processes such as crime, diseases, and pedestrian footfalls are extremely difficult to synthesise - these phenomena are inherently complex, and theories that define them are still evolving. 
+Geographical processes such as crime, diseases, and pedestrian footfalls are extremely difficult to synthesise - they are inherently complex, and the theories for describing them are constantly evolving. 
 
 Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Of course, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and lack availability of usable formats. 
 
