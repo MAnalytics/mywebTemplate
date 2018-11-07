@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monsuru Adepeju&#39;s Homepage on Monsuru Adepeju&#39;s Homepage</title>
-    <link>https://madepeju.com/</link>
+    <link>/</link>
     <description>Recent content in Monsuru Adepeju&#39;s Homepage on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>BDC Seminar Series - 2nd October 2018</title>
-      <link>https://madepeju.com/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;h2 id=&#34;authors&#34;&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/h2&gt;
@@ -36,20 +36,20 @@
     
     <item>
       <title>BDC Seminar Series | 13th November 2018</title>
-      <link>https://madepeju.com/seminars/tutor_eg_131118/</link>
+      <link>/seminars/tutor_eg_131118/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/seminars/tutor_eg_131118/</guid>
+      <guid>/seminars/tutor_eg_131118/</guid>
       <description>&lt;p&gt;#To be announced soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>BDC Seminar Series | 2nd October, 2018</title>
-      <link>https://madepeju.com/seminars/tutor_eg_021018/</link>
+      <link>/seminars/tutor_eg_021018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/seminars/tutor_eg_021018/</guid>
+      <guid>/seminars/tutor_eg_021018/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -69,10 +69,10 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>BDC Seminar Series | 30th October 2018</title>
-      <link>https://madepeju.com/seminars/tutor_eg_301018/</link>
+      <link>/seminars/tutor_eg_301018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/seminars/tutor_eg_301018/</guid>
+      <guid>/seminars/tutor_eg_301018/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -95,10 +95,10 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>BDC Seminar series | 16th October 2018</title>
-      <link>https://madepeju.com/seminars/tutor_eg_161018/</link>
+      <link>/seminars/tutor_eg_161018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/seminars/tutor_eg_161018/</guid>
+      <guid>/seminars/tutor_eg_161018/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -124,11 +124,21 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Delineators: Geographical Space</title>
-      <link>https://madepeju.com/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>
 
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
@@ -139,7 +149,7 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;h1 id=&#34;1-spatial-grid-generator&#34;&gt;1. Spatial grid generator:&lt;/h1&gt;
 
-&lt;p&gt;This tool creates a regular grid system over a geographical space. The tool requires a user to supply a spatial boundary of an area (in Esri format - .shp) and specify the grid size. The tool detects the spatial extent of the boundary and automatically create a system of regular grids, of the size specified, over the area. Below are examples regular grid systems of varying sizes, created by this tool, over the City of Chicago.&lt;/p&gt;
+&lt;p&gt;This tool creates a regular grid system over a geographical space. The tool requires a user to supply a spatial boundary of an area (in Esri format - .shp) and specify the grid size. The tool detects the spatial extent of the boundary and automatically create a system of regular grids, of the size specified, over the area. Although, it is possible to create regular grids in the existing GIS software, such as &lt;em&gt;ArcGIS&lt;/em&gt; or &lt;em&gt;QGIS&lt;/em&gt;, however, the process in these software is not straightforward. Therefore, the key purpose of our &lt;em&gt;Spatial grid generator&lt;/em&gt; is to simplify this process. Below are examples regular grid systems of varying sizes, created by this tool, over the City of Chicago.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Insert figs. here:&lt;/strong&gt;&lt;/p&gt;
 
@@ -167,10 +177,10 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>Predictors: Geographical Processes</title>
-      <link>https://madepeju.com/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description>
 
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
@@ -202,10 +212,10 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>Simulators: Space-time Point Patterns</title>
-      <link>https://madepeju.com/project/internal-project2/</link>
+      <link>/project/internal-project2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/internal-project2/</guid>
+      <guid>/project/internal-project2/</guid>
       <description>
 
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
@@ -228,20 +238,20 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://madepeju.com/publication_/person-re-id/</link>
+      <link>/publication_/person-re-id/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/publication_/person-re-id/</guid>
+      <guid>/publication_/person-re-id/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Past invited talks</title>
-      <link>https://madepeju.com/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://madepeju.com/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -260,20 +270,20 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>https://madepeju.com/publication_/clothing-search/</link>
+      <link>/publication_/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/publication_/clothing-search/</guid>
+      <guid>/publication_/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://madepeju.com/slides/example-slides/</link>
+      <link>/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://madepeju.com/slides/example-slides/</guid>
+      <guid>/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
