@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Monsuru Adepeju&#39;s Homepage</title>
-    <link>/tags/</link>
+    <link>https://madepeju.com/tags/</link>
     <description>Recent content in Tags on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://madepeju.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>https://madepeju.com/tags/academic/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://madepeju.com/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delineators</title>
-      <link>/tags/delineators/</link>
+      <link>https://madepeju.com/tags/delineators/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/delineators/</guid>
+      <guid>https://madepeju.com/tags/delineators/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictors</title>
-      <link>/tags/predictors/</link>
+      <link>https://madepeju.com/tags/predictors/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/predictors/</guid>
+      <guid>https://madepeju.com/tags/predictors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
+      <link>https://madepeju.com/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r-markdown/</guid>
+      <guid>https://madepeju.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulators</title>
-      <link>/tags/simulators/</link>
+      <link>https://madepeju.com/tags/simulators/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/tags/simulators/</guid>
+      <guid>https://madepeju.com/tags/simulators/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>/tags/plot/</link>
+      <link>https://madepeju.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/plot/</guid>
+      <guid>https://madepeju.com/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>/tags/regression/</link>
+      <link>https://madepeju.com/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/tags/regression/</guid>
+      <guid>https://madepeju.com/tags/regression/</guid>
       <description></description>
     </item>
     
