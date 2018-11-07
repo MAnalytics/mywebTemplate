@@ -41,7 +41,7 @@ weight = 5
 
 # MOnalytics
 
-Welcome to my website - **MOnalytics**. This website is set to provide a high-level description of some of my research, especially those ones with further research and real practical applications. These are featured in the **Open-tools** section of this website. I hope you find the contents useful. Enjoy!
+Welcome to my website - **MOnalytics**. This website is set to provide a high-level description of some of my research, especially those ones with further research and real practical applications. These are featured in the [**Open-tools**](https://www.madepeju.com/#projects) section of this website. I hope you find the contents useful. Enjoy!
 
 # About me
 
