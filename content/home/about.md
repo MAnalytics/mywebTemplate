@@ -24,7 +24,7 @@ weight = 5
 
 [[education.courses]]
   course = "MSc in Geographic Information Science"
-  institution = "[University College London](https://www.ucl.ac.uk/) (Grade: Distinction)"
+  institution = "University College London (Grade: Distinction)"
   year = 2012
 
 [[education.courses]]
