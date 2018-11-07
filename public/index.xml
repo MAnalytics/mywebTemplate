@@ -219,6 +219,18 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
       <description>
 
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Geogrpahical processes such as crime, diseases, and pedestrian footfalls are extremely difficult to synthesise or simulate - these phenomena are inherently complex, and theories that define them are still evolving.&lt;/p&gt;
+
+&lt;p&gt;Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Of course, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and lack availability of usable formats.&lt;/p&gt;
+
+&lt;p&gt;To the credit of some computer/geographical scientists, some successes have been achieved in the area geographical modelling through computer simulation approach. However, many of these simulations are super-specific and might not be &amp;lsquo;customisable&amp;rsquo; for other purposes.&lt;/p&gt;
+
+&lt;p&gt;In this section, I introduce a dynamic microsimulation framework for simulating crime patterns. This framework is aimed to be adjustable for generating different kinds of dynamism in offenders behaviours, giving rise to all kinds of space-time crime patterns.&lt;/p&gt;
+
+&lt;p&gt;The preliminary version of this framework was published &lt;a href=&#34;http://eprints.whiterose.ac.uk/128602/1/monsuru_adepeju_gisruk2018.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;a-dynamic-microsimulation-framework-for-simulating-different-kinds-of-crime-patterns&#34;&gt;A dynamic microsimulation framework for simulating different kinds of crime patterns.&lt;/h1&gt;
 </description>
     </item>
     
