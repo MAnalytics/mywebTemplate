@@ -39,7 +39,7 @@ weight = 5
  
 +++
 
-# Welcome to MOnalytics
+# MOnalytics
 
 Welcome to my website - **MOnalytics**. The purpose of this website is to provide a platform for a high-level description of some of my research, especially those ones with further research and real practical applications. These are featured in the **Open-tools** section of this website. I hope you find the contents useful. Enjoy!
 
