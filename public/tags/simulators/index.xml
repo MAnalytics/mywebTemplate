@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulators on Monsuru Adepeju&#39;s Homepage</title>
-    <link>https://madepeju.com/tags/simulators/</link>
+    <link>/tags/simulators/</link>
     <description>Recent content in Simulators on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://madepeju.com/tags/simulators/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/simulators/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simulators: Space-time Point Patterns</title>
-      <link>https://madepeju.com/project/internal-project2/</link>
+      <link>/project/internal-project2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/internal-project2/</guid>
+      <guid>/project/internal-project2/</guid>
       <description>Introduction Geographical processes such as crime, diseases, and pedestrian footfalls are extremely difficult to synthesise - they are inherently complex, and the theories for describing them are constantly evolving.
-Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Of course, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and lack availability of usable formats.</description>
+Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Evidently, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and the lack availability of usable data formats.</description>
     </item>
     
   </channel>

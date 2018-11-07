@@ -30,17 +30,17 @@ external_link = ""
 
 Geographical processes such as crime, diseases, and pedestrian footfalls are extremely difficult to synthesise - they are inherently complex, and the theories for describing them are constantly evolving. 
 
-Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Of course, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and lack availability of usable formats. 
+Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Evidently, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and the lack availability of usable data formats. 
 
-To the credit of some computer/geospatial scientists, some successes have been achieved in the area geographical modelling through computer simulation approach. However, many of these simulations are often too specific to a single scenario and might not be 'customisable' for other purposes. 
+To the credit of some computer/geospatial scientists, certain successes have been achieved in the areas of geographical modelling through computer simulation approach. However, many of these simulations are often too tailored towards a single problem and may not be extensible to other related problems. 
 
-In this section, I introduce a *dynamic microsimulation framework* for simulating crime patterns. This framework is aimed to be 'customisable' for generating different types of dynamisms in offenders behaviours, giving rise to all kinds of crime distributions in space-time.  
+In this section, I introduce a *dynamic microsimulation framework* for simulating *crime patterns*. Crime patterns, arising from offenders behavioural patterns, have both a spatial and a temporal component with varying degrees. This framework is aimed to be 'customisable' for generating different combinations of these spatio-temporal patterns.  
 
 
 
-# A dynamic microsimulation framework for simulating different kinds of crime patterns.
+# A dynamic microsimulation framework for simulating varying spatio-temporal crime patterns.
 
-This framework...
+This framework
 
 The preliminary version of this framework was published [here](http://eprints.whiterose.ac.uk/128602/1/monsuru_adepeju_gisruk2018.pdf).  
 
