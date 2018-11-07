@@ -31,9 +31,9 @@ Cheng, T., Bowers, K., Longley, P. [..]., **Adepeju, M.**,.. **2016**. CPC: Crim
 
 ## **Book chapters:**
 
-**Adepeju, M.** **2017**. Testing the adequacy of a single-value Monte Carlo simulation for space-time interaction of crime. In Computational Science and Its Applications - ICCSA 2017, DOI:10.1007/978-3-319-62407-5_60. pg. 779-786
+**Adepeju, M.** **2017**. Testing the adequacy of a single-value Monte Carlo simulation for space-time interaction of crime. In Computational Science and Its Applications - ICCSA 2017, DOI: 10.1007 / 978-3-319-62407-5_60. pg. 779-786
 
-**Adepeju, M.** & Evans, A. **2017** Comparative analysis of two variants of the Knox test: Inferences from space-time pattern analysis. In Computational Science and Its Applications - ICCSA 2017, DOI: 10.1007/978-3-319-62407-5_59. pg. 770-778.
+**Adepeju, M.** & Evans, A. **2017** Comparative analysis of two variants of the Knox test: Inferences from space-time pattern analysis. In Computational Science and Its Applications - ICCSA 2017, DOI: 10.1007 / 978-3-319-62407-5_59. pg. 770-778.
 
 ## **Conference articles (Peer-reviewed):**
 
@@ -45,7 +45,7 @@ Lovelace, R., Padgham, M., **Adepeju, M.** & Groot, N. **2018** Estimating cycli
 
 **Adepeju, M.** & Evans, A. **2017** Investigating the impacts of training data set length (T) and the aggregation unit size (M) on the accuracy of the self-exciting point process (SEPP) hotspot method. International Conference on GeoComputation, Sept. 2017, Leeds, UK
 
-**Adepeju, M.** & Cheng, T. **2017** Determining the optimal spatial scan extent of Prospective spacetime scan statistics (PSTSS) for crime hotspot prediction. Proceedings of the 24th GIS Research UK Conference (GISRUK 2017), Manchester, UK. Available online: http://huckg.is/gisruk2017/GISRUK_2017_paper_33.pdf
+**Adepeju, M.** & Cheng, T. **2017** Determining the optimal spatial scan extent of Prospective spacetime scan statistics (PSTSS) for crime hotspot prediction. Proceedings of the 24th GIS Research UK Conference (GISRUK 2017), Manchester, UK. Available [here](http://huckg.is/gisruk2017/GISRUK_2017_paper_33.pdf).
 
 **Adepeju, M.**, Cheng, T., Shawe-Taylor, J., & Bowers, K. **2015** A new metric of crime hotspots for Operational Policing. Proceedings of the 23rd GIS Research UK Conference (GISRUK 2015), Leeds, UK. Available [here](leeds.gisruk.org/abstracts/GISRUK2015_submission_51.pdf).
 
