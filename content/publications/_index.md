@@ -24,7 +24,7 @@ Cheng, T. & **Adepeju, M.** **2014**. Modifiable temporal unit problem (MTUP) an
 
 ## **Books:**
 
-Cheng, T., Bowers, K., Longley, P. [..]., **Adepeju, M.**,.. **2016**. CPC: Crime, Policing and Citizenship - Intelligent policing and big data. London: UCL SpaceTimeLab.
+Cheng, T., Bowers, K., Longley, P. [..]., **Adepeju, M.**,.. **2016**. CPC: Crime, Policing and Citizenship - Intelligent policing and big data. London: UCL SpaceTimeLab. Available [here](https://www.ucl.ac.uk/spacetimelab/docs/UCL_Intelligent_Policing).
 
 ## **Book chapters:**
 
