@@ -25,6 +25,16 @@ Information Science, 1-22.
 Cheng, T. & **Adepeju, M.** **2014**. Modifiable temporal unit problem (MTUP) and its effect on spacetime
 cluster detection. PloS one, 9(6), e100465.
 
+## **Book:**
+
+Cheng, T., Bowers, K., Longley, P. [..]., **Adepeju, M.**,.. **2016**. CPC: Crime, Policing and Citizenship - Intelligent policing and big data. London: UCL SpaceTimeLab.
+
+## **Book chapters:**
+
+**Adepeju, M.** **2017**. Testing the adequacy of a single-value Monte Carlo simulation for space-time interaction of crime. In Computational Science and Its Applications - ICCSA 2017, DOI:10.1007/978-3-319-62407-5_60. pg. 779-786
+
+**Adepeju, M.** & Evans, A. **2017** Comparative analysis of two variants of the Knox test: Inferences from space-time pattern analysis. In Computational Science and Its Applications - ICCSA 2017, DOI: 10.1007/978-3-319-62407-5_59. pg. 770-778.
+
 ## **Conference articles (Peer-reviewed):**
 
 **Adepeju, M.** & Evans, A. **2018**. A dynamic microsimulation framework for generating synthetic spatiotemporal crime patterns. GIS Research UK conference, Leicester (2018).
@@ -40,16 +50,6 @@ Lovelace, R., Padgham, M., **Adepeju, M.** & Groot, N. **2018** Estimating cycli
 **Adepeju, M.**, Cheng, T., Shawe-Taylor, J., & Bowers, K. **2015** A new metric of crime hotspots for Operational Policing. Proceedings of the 23rd GIS Research UK Conference (GISRUK 2015), Leeds, UK. Available online: leeds.gisruk.org/abstracts/GISRUK2015_submission_51.pdf
 
 Cheng, T. & **Adepeju, M.** **2013** Detecting emerging space-time crime patterns by prospective STSS. In Proc of the 12th International Conference on GeoComputation. Available: http://www. geocomputation.org/2013/papers/77.pdf.
-
-## **Book:**
-
-Cheng, T., Bowers, K., Longley, P. [..]., **Adepeju, M.**,.. **2016**. CPC: Crime, Policing and Citizenship - Intelligent policing and big data. London: UCL SpaceTimeLab.
-
-## **Book chapters:**
-
-**Adepeju, M.** **2017**. Testing the adequacy of a single-value Monte Carlo simulation for space-time interaction of crime. In Computational Science and Its Applications - ICCSA 2017, DOI:10.1007/978-3-319-62407-5_60. pg. 779-786
-
-**Adepeju, M.** & Evans, A. **2017** Comparative analysis of two variants of the Knox test: Inferences from space-time pattern analysis. In Computational Science and Its Applications - ICCSA 2017, DOI: 10.1007/978-3-319-62407-5_59. pg. 770-778.
 
 ## **Papers in preparation**
 
