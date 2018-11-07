@@ -1,5 +1,5 @@
 ---
-title: "All past talks"
+title: "Past invited talks"
 author: "Frida Gomam"
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
@@ -10,7 +10,7 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# Paper resentations:
+# Paper presentations:
 
 Langton, S. & **Adepeju, M.** **2018**. A longitudinal study of offender residential concentration in the UK. Presented at the European Society of Criminology - Sarajevo, Bosnia and Herzegovina - 29th August 2018.
 
