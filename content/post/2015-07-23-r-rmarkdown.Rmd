@@ -10,7 +10,7 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# Oral presentations:
+# Past oral presentations:
 
 Langton, S. & **Adepeju, M.** **2018**. A longitudinal study of offender residential concentration in the UK. Presented at the European Society of Criminology - Sarajevo, BiH - 29th August 2018.
 
@@ -24,4 +24,4 @@ Langton, S. & **Adepeju, M.** **2018**. A longitudinal study of offender residen
 
 **Adepeju, M.**, Cheng, T., & Nakaya, T. **2014** Crime pattern detection for predictive policing. Association of American Geographers, Annual Meeting. Tampa, FL, USA, April 2013 
 
-Cheng, T. & **Adepeju, M.** 2013** Implications of the difference between the Prospective and Retrospective Space-time scan statistics. ECTQG 18th European Colloquium on Theoretical and Quantitative Geography, Dourdan, France, September 2013.
+Cheng, T. & **Adepeju, M. **2013** Implications of the difference between the Prospective and Retrospective Space-time scan statistics. ECTQG 18th European Colloquium on Theoretical and Quantitative Geography, Dourdan, France, September 2013.
