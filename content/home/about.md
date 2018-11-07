@@ -29,12 +29,12 @@ weight = 5
 
 [[education.courses]]
   course = "BSc in Surveying and Geoinformatics"
-  institution = "University of Lagos, Nigeria (First-Class)"
+  institution = "University of Lagos, Nigeria (Grade: First-Class)"
   year = 2009
 
 [[education.courses]]
   course = "ND in Surveying and Geoinformatics"
-  institution = "Federal School of Surveying, Oyo, Nigeria (Distinction)"
+  institution = "Federal School of Surveying, Oyo, Nigeria (Grade: Distinction)"
   year = 2002
  
 +++
