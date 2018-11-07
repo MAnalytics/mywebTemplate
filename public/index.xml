@@ -40,7 +40,20 @@
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
       <guid>/seminars/tutor_eg_131118/</guid>
-      <description>&lt;p&gt;#To be announced soon!&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Offender residential concentrations: a longitudinal study in the United Kingdom&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Since the 1990s, a dramatic decline in recorded crime has been observed across many developed polities (Aebi and Linde, 2010; Tseloni et al., 2010). Set against this finding, there has been limited attention paid the crime drop at the neighbourhood level, an exception being Bannister et al (2017) who found marked distinction in the crime drop trajectories of different neighbourhood groupings in Glasgow. Building upon this finding, this paper seeks to explore whether the crime drop has resulted in an increase in inequalities in the exposure to crime. The analysis utilises police recorded property and violent crime in Glasgow and Birmingham, enabling assessment of whether any observed shifting inequalities in the exposure to crime can be considered place specific or part of wider area trends.
+This research deploys a novel &lt;em&gt;inequity&lt;/em&gt; kmeans clustering (&lt;em&gt;iClustering&lt;/em&gt;) technique (Adepeju, Langton and Bannister, in preparation) to examine the longitudinal crime trajectories of neighbourhoods. This technique offers substantive advantage over existing longitudinal clustering techniques (Curman et al., 2015; Weisburd et al., 2004; Wheeler et al., 2015) enabling clearer delineation of neighbourhood crime trajectories. The results indicate growing inequalities in the exposure to crime and may be applied, in an era of fiscal austerity, to help target and prioritise policing interventions.&lt;/p&gt;
+
+&lt;h2 id=&#34;speaker&#34;&gt;&lt;strong&gt;Speaker:&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Dr Monsuru Adepeju&lt;/p&gt;
 </description>
     </item>
     
@@ -58,12 +71,11 @@
 
 &lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;Since the 1990s, a dramatic decline in recorded crime has been observed across many developed polities (Aebi and Linde, 2010; Tseloni et al., 2010). Set against this finding, there has been limited attention paid the crime drop at the neighbourhood level, an exception being Bannister et al (2017) who found marked distinction in the crime drop trajectories of different neighbourhood groupings in Glasgow. Building upon this finding, this paper seeks to explore whether the crime drop has resulted in an increase in inequalities in the exposure to crime. The analysis utilises police recorded property and violent crime in Glasgow and Birmingham, enabling assessment of whether any observed shifting inequalities in the exposure to crime can be considered place specific or part of wider area trends.
-This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clustering (iClustering) technique (Adepeju, Langton and Bannister, in preparation) to examine the longitudinal crime trajectories of neighbourhoods. This technique offers substantive advantage over existing longitudinal clustering techniques (Curman et al., 2015; Weisburd et al., 2004; Wheeler et al., 2015) enabling clearer delineation of neighbourhood crime trajectories. The results indicate growing inequalities in the exposure to crime and may be applied, in an era of fiscal austerity, to help target and prioritise policing interventions.&lt;/p&gt;
+&lt;p&gt;Despite having common roots in crime concentration research, little attention has been paid to the geographic distribution of offender residences. Questions remain unanswered about how stable offender residential concentrations are over time, or how sensitive this stability is to the choice of spatial scale. Given that many offenders commit crime close to where they reside, an important piece of the puzzle may be missing in our efforts to understand the longitudinal concentration of crime. This paper addresses these shortcomings using 10 years of geocoded offender residence data from Birmingham, England. Descriptive and multilevel analyses are used to establish the most appropriate unit of analysis. Non-parametric longitudinal clustering methods are then deployed to disentangle local variance in concentrations. Individual-level population flows are visualised to demonstrate how even small-area analysis can hide more complex underlying processes.&lt;/p&gt;
 
-&lt;h2 id=&#34;speaker&#34;&gt;&lt;strong&gt;Speaker:&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;author&#34;&gt;&lt;strong&gt;Author:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;Dr Monsuru Adepeju&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sam Langton&lt;/strong&gt; is a PhD candidate at Manchester Metropolitan Crime and Well-Being Big Data Centre. His research focuses on the geographic distribution of offender residences in Birmingham, England. Sam is supervised by Jon Bannister (Sociology), Gary Pollock (Sociology) and Liangxiu Han (Computing). He obtained a BSc in Social Policy and Government from the London School of Economics. After working in accounting for two years, he moved to the Netherlands to complete a two-year MSc in Sociology and Social Research at Utrecht University. Whilst there, he worked as an intern at the Netherlands Institute for the Study of Crime and Law Enforcement (NSCR) in Amsterdam, where he completed his master’s dissertation with Utrecht University on residential burglary target selection.&lt;/p&gt;
 </description>
     </item>
     
@@ -81,11 +93,11 @@ This research deploys a novel &lt;code&gt;inequity&lt;/code&gt; kmeans clusterin
 
 &lt;h2 id=&#34;abstract&#34;&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;Both social and ecological systems can be highly complex, but the interaction between these two worlds - a socio-ecological system (SES) - can add even greater levels. However, the maintenance of SES are vital to our well-being and the health of the planet. We do not know how such systems work in practice and we lack good data about them (especially the ecological side) so predicting the effect of any particular policy is infeasible. Here we present an approach which tries to understand some of the ways in which SES may go wrong, but constructing different complex simulation models and analysing the emergent outcomes. These, in silico, examples can allow for the institution of targeted data gathering instruments that give the earliest possible warning of deleterious outcomes, and thus allow for timely remedial responses. An example of this approach applied to fisheries is described.&lt;/p&gt;
+&lt;p&gt;Both social and ecological systems can be highly complex, but the interaction between these two worlds - a &lt;em&gt;socio-ecological system (SES)&lt;/em&gt; - can add even greater levels. However, the maintenance of SES are vital to our well-being and the health of the planet. We do not know how such systems work in practice and we lack good data about them (especially the ecological side) so predicting the effect of any particular policy is infeasible. Here we present an approach which tries to understand some of the ways in which SES may go wrong, but constructing different complex simulation models and analysing the emergent outcomes. These, in silico, examples can allow for the institution of targeted data gathering instruments that give the earliest possible warning of deleterious outcomes, and thus allow for timely remedial responses. An example of this approach applied to fisheries is described.&lt;/p&gt;
 
 &lt;h2 id=&#34;author&#34;&gt;&lt;strong&gt;Author:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;Bruce Edmonds&lt;/strong&gt; is Professor of Social Simulation and Director of the Centre for Policy Modelling (CfPM). The CfPM was formed in 1992 as one of the first research centres in the complexity sciences in the UK. It applies computer science techniques to understand issues in the social world. Since 1992 it has developed to be one of the world&amp;rsquo;s leading research centres in agent-based modelling. For more about the Centre see &lt;a href=&#34;http://cfpm.org&#34; target=&#34;_blank&#34;&gt;http://cfpm.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bruce Edmonds&lt;/strong&gt; is Professor of Social Simulation and Director of the &lt;a href=&#34;http://cfpm.org/&#34; target=&#34;_blank&#34;&gt;Centre for Policy Modelling (CfPM)&lt;/a&gt;. The CfPM was formed in 1992 as one of the first research centres in the complexity sciences in the UK. It applies computer science techniques to understand issues in the social world. Since 1992 it has developed to be one of the world&amp;rsquo;s leading research centres in agent-based modelling. For more about the Centre see &lt;a href=&#34;http://cfpm.org&#34; target=&#34;_blank&#34;&gt;http://cfpm.org&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;delivered-by&#34;&gt;&lt;strong&gt;Delivered by:&lt;/strong&gt;&lt;/h2&gt;
 
