@@ -28,7 +28,7 @@ external_link = ""
 
 # Introduction
 
-This section describes a set of analytical tools for delineating a geographical space. A `geographical space` refers to a large geographical area, such as a town or a  city, subdivided into a set of smaller administrative or non-administrative units.  An example of an administrative unit is a district, neighbourhood, county or ward demarcation, while an example of a non-administrative unit is a system of regular grid or street network.
+This section describes a set of analytical tools for delineating a geographical space. A *geographical space* refers to a large geographical area, such as a town or a  city, subdivided into a set of smaller administrative or non-administrative units.  An example of an administrative unit is a district, neighbourhood, county or ward demarcation, while an example of a non-administrative unit is a system of regular grid or street network.
 
 In spatial analysis, it is often required to **modify** an existing geographical delineation or **create** a new one, based on a given specification. The following subsection will talk about two tools, one for creating a new geographical delineation (demarcation), and the other for modifying an existing geographical delineation. The link to download the tools are also provided.
 
