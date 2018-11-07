@@ -20,7 +20,7 @@ caption = ""
 +++
 
 ## **Organiser:**
-Dr Monsuru Adepeju
+**Dr Monsuru Adepeju**
 
 ## **Overview**
 A fortnightly seminar series aimed at addressing substantive theoretical, empirical and methodological developments in the study of crime and well-being. The seminars are being delivered by a combination of internal and external speakers, are open to all members of the public.
