@@ -1,5 +1,5 @@
 ---
-title: "European Society of Criminology - Sarajevo, BiH - 29th August 2018"
+title: "List of talks"
 author: "Frida Gomam"
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
@@ -10,17 +10,7 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# Title:
+# Oral presentations:
 
-**Offender residential concentration: a longitudinal study in the United Kingdom**
-
-# Authors:
-
-**Samuel Langton & Monsuru Adepeju**
-
-# Abstract:
-
-This study examines..
-
-You can also embed plots. See Figure \@ref(fig:pie) for example:
+Samuel Langton & **Monsuru Adepeju** **2018**. A longitudinal study of offender residential concentration in the UK. Presented at the European Society of Criminology - Sarajevo, BiH - 29th August 2018.
 
