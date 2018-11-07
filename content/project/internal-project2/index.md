@@ -34,15 +34,12 @@ Researchers often find themselves in a very precarious situation when carrying o
 
 To the credit of some computer/geospatial scientists, certain successes have been achieved in the areas of geographical modelling through computer simulation approach. However, many of these simulations are often too tailored towards a single problem and may not be extensible to other related problems. 
 
-In this section, I introduce a *dynamic microsimulation framework* for simulating *crime patterns*. Crime patterns, arising from offenders behavioural patterns, have both a spatial and a temporal component with varying degrees. This framework is aimed to be 'customisable' for generating different combinations of these spatio-temporal patterns.  
+In this section, I introduce a *dynamic microsimulation framework* for simulating *crime patterns*. Crime patterns, arising from offenders behavioural patterns have both spatial and temporal signatures of different types. Thus, this framework is aimed at enabling different combinations of spatio-temporal crime patterns to be simulated.  
+
+This framework was originally described [here](http://eprints.whiterose.ac.uk/128602/1/monsuru_adepeju_gisruk2018.pdf).  
 
 
+# A dynamic microsimulation framework for simulating different spatio-temporal crime patterns.
 
-# A dynamic microsimulation framework for simulating varying spatio-temporal crime patterns.
-
-This framework
-
-The preliminary version of this framework was published [here](http://eprints.whiterose.ac.uk/128602/1/monsuru_adepeju_gisruk2018.pdf).  
-
-
+This framework...
 
