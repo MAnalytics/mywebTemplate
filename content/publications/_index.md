@@ -47,9 +47,9 @@ Lovelace, R., Padgham, M., **Adepeju, M.** & Groot, N. **2018** Estimating cycli
 
 **Adepeju, M.** & Cheng, T. **2017** Determining the optimal spatial scan extent of Prospective spacetime scan statistics (PSTSS) for crime hotspot prediction. Proceedings of the 24th GIS Research UK Conference (GISRUK 2017), Manchester, UK. Available online: http://huckg.is/gisruk2017/GISRUK_2017_paper_33.pdf
 
-**Adepeju, M.**, Cheng, T., Shawe-Taylor, J., & Bowers, K. **2015** A new metric of crime hotspots for Operational Policing. Proceedings of the 23rd GIS Research UK Conference (GISRUK 2015), Leeds, UK. Available online: leeds.gisruk.org/abstracts/GISRUK2015_submission_51.pdf
+**Adepeju, M.**, Cheng, T., Shawe-Taylor, J., & Bowers, K. **2015** A new metric of crime hotspots for Operational Policing. Proceedings of the 23rd GIS Research UK Conference (GISRUK 2015), Leeds, UK. Available [here](leeds.gisruk.org/abstracts/GISRUK2015_submission_51.pdf).
 
-Cheng, T. & **Adepeju, M.** **2013** Detecting emerging space-time crime patterns by prospective STSS. In Proc of the 12th International Conference on GeoComputation. Available: http://www. geocomputation.org/2013/papers/77.pdf.
+Cheng, T. & **Adepeju, M.** **2013** Detecting emerging space-time crime patterns by prospective STSS. In Proc of the 12th International Conference on GeoComputation. Available [here](http://www. geocomputation.org/2013/papers/77.pdf).
 
 ## **Papers in preparation**
 
