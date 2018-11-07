@@ -37,13 +37,13 @@ Cheng, T., Bowers, K., Longley, P. [..]., **Adepeju, M.**,.. **2016**. CPC: Crim
 
 ## **Conference articles (Peer-reviewed):**
 
-**Adepeju, M.** & Evans, A. **2018**. A dynamic microsimulation framework for generating synthetic spatiotemporal crime patterns. GIS Research UK conference, Leicester (2018).
+**Adepeju, M.** & Evans, A. **2018**. A dynamic microsimulation framework for generating synthetic spatiotemporal crime patterns. GIS Research UK conference, Leicester (2018). Available [here](http://eprints.whiterose.ac.uk/128602/).
 
 Lovelace, R., Padgham, M., **Adepeju, M.** & Groot, N. **2018** Estimating cycling potential on route networks in Accra and Kathmandu: A feasibility study using open data and open source software. WHO Meeting on transport and health, UK.
 
-**Adepeju, M.** **2017** Investigating the Repeat and Near-Repeat Patterns in Sub-categories of burglary crime. International Conference on GeoComputation, Sept. 2017, Leeds, UK
+**Adepeju, M.** **2017** Investigating the Repeat and Near-Repeat Patterns in Sub-categories of burglary crime. International Conference on GeoComputation, Sept. 2017, Leeds, UK. Available [here](http://eprints.whiterose.ac.uk/124154/).
 
-**Adepeju, M.** & Evans, A. **2017** Investigating the impacts of training data set length (T) and the aggregation unit size (M) on the accuracy of the self-exciting point process (SEPP) hotspot method. International Conference on GeoComputation, Sept. 2017, Leeds, UK
+**Adepeju, M.** & Evans, A. **2017** Investigating the impacts of training data set length (T) and the aggregation unit size (M) on the accuracy of the self-exciting point process (SEPP) hotspot method. International Conference on GeoComputation, Sept. 2017, Leeds, UK. Available [here](https://pdfs.semanticscholar.org/3f3f/602118b190a9ef8ddb4ae35e3b51fa0401a5.pdf)
 
 **Adepeju, M.** & Cheng, T. **2017** Determining the optimal spatial scan extent of Prospective spacetime scan statistics (PSTSS) for crime hotspot prediction. Proceedings of the 24th GIS Research UK Conference (GISRUK 2017), Manchester, UK. Available [here](http://huckg.is/gisruk2017/GISRUK_2017_paper_33.pdf).
 
