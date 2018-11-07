@@ -34,7 +34,7 @@ Researchers often find themselves in a very precarious situation when carrying o
 
 To the credit of some computer/geospatial scientists, some successes have been achieved in the area geographical modelling through computer simulation approach. However, many of these simulations are super-specific and might not be 'customisable' for other purposes. 
 
-In this section, I introduce a *dynamic microsimulation framework* for simulating crime patterns. This framework is aimed to be adjustable for generating different types of dynamisms in offenders behaviours, giving rise to all kinds of crime distributions in space-time.  
+In this section, I introduce a *dynamic microsimulation framework* for simulating crime patterns. This framework is aimed to be 'customisable' for generating different types of dynamisms in offenders behaviours, giving rise to all kinds of crime distributions in space-time.  
 
 
 
