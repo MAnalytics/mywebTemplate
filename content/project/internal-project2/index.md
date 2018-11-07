@@ -32,7 +32,7 @@ Geographical processes such as crime, diseases, and pedestrian footfalls are ext
 
 Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Of course, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and lack availability of usable formats. 
 
-To the credit of some computer/geospatial scientists, some successes have been achieved in the area geographical modelling through computer simulation approach. However, many of these simulations are super-specific and might not be 'customisable' for other purposes. 
+To the credit of some computer/geospatial scientists, some successes have been achieved in the area geographical modelling through computer simulation approach. However, many of these simulations are often too specific to a single scenario and might not be 'customisable' for other purposes. 
 
 In this section, I introduce a *dynamic microsimulation framework* for simulating crime patterns. This framework is aimed to be 'customisable' for generating different types of dynamisms in offenders behaviours, giving rise to all kinds of crime distributions in space-time.  
 

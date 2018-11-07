@@ -236,7 +236,7 @@ This research deploys a novel &lt;em&gt;inequity&lt;/em&gt; kmeans clustering (&
 
 &lt;p&gt;Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Of course, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and lack availability of usable formats.&lt;/p&gt;
 
-&lt;p&gt;To the credit of some computer/geospatial scientists, some successes have been achieved in the area geographical modelling through computer simulation approach. However, many of these simulations are super-specific and might not be &amp;lsquo;customisable&amp;rsquo; for other purposes.&lt;/p&gt;
+&lt;p&gt;To the credit of some computer/geospatial scientists, some successes have been achieved in the area geographical modelling through computer simulation approach. However, many of these simulations are often too specific to a single scenario and might not be &amp;lsquo;customisable&amp;rsquo; for other purposes.&lt;/p&gt;
 
 &lt;p&gt;In this section, I introduce a &lt;em&gt;dynamic microsimulation framework&lt;/em&gt; for simulating crime patterns. This framework is aimed to be &amp;lsquo;customisable&amp;rsquo; for generating different types of dynamisms in offenders behaviours, giving rise to all kinds of crime distributions in space-time.&lt;/p&gt;
 
