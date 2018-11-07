@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Monsuru Adepeju&#39;s Homepage</title>
-    <link>https://madepeju.com/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://madepeju.com/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Delineators: Geographical Space</title>
-      <link>https://madepeju.com/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>Introduction This section describes a set of analytical tools for delineating a geographical space. A geographical space refers to a large geographical area, such as a town or a city, subdivided into a set of smaller administrative or non-administrative units. An example of an administrative unit is a district, neighbourhood, county or ward demarcation, while an example of a non-administrative unit is a system of regular grid or street network.</description>
     </item>
     
     <item>
       <title>Predictors: Geographical Processes</title>
-      <link>https://madepeju.com/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description>Introduction This section introduces a set of predictive tools for certain geographical processes, such as crime and footfalls. The links to downloading these tools are also provided.
 1. Grid-based Crime Hotspot Predictors Crime Hotspot refers to an area with a high risk of crime. In practice, police are interested in crime hotspot in order to inform crime intervention. However, it requires the use of an analytical technique to identify hotspot areas and be able to rank them according to their level of severity.</description>
     </item>
     
     <item>
       <title>Simulators: Space-time Point Patterns</title>
-      <link>https://madepeju.com/project/internal-project2/</link>
+      <link>/project/internal-project2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/internal-project2/</guid>
+      <guid>/project/internal-project2/</guid>
       <description>Introduction Geographical processes such as crime, diseases, and pedestrian footfalls are extremely difficult to synthesise - these phenomena are inherently complex, and theories that define them are still evolving.
 Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Of course, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and lack availability of usable formats.</description>
     </item>
