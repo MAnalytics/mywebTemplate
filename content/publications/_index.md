@@ -25,7 +25,7 @@ Information Science, 1-22.
 Cheng, T. & **Adepeju, M.** **2014**. Modifiable temporal unit problem (MTUP) and its effect on spacetime
 cluster detection. PloS one, 9(6), e100465.
 
-## **Book contribution:**
+## **Books:**
 
 Cheng, T., Bowers, K., Longley, P. [..]., **Adepeju, M.**,.. **2016**. CPC: Crime, Policing and Citizenship - Intelligent policing and big data. London: UCL SpaceTimeLab.
 
