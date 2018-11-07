@@ -23,14 +23,6 @@ knitr::opts_chunk$set(collapse = TRUE)
 This study examines..
 
 
-You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
-
 You can also embed plots. See Figure \@ref(fig:pie) for example:
 
 ```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
