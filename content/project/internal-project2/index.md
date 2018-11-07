@@ -28,18 +28,21 @@ external_link = ""
 
 # Introduction
 
-Geogrpahical processes such as crime, diseases, and pedestrian footfalls are extremely difficult to synthesise or simulate - these phenomena are inherently complex, and theories that define them are still evolving. 
+Geographical processes such as crime, diseases, and pedestrian footfalls are extremely difficult to synthesise - these phenomena are inherently complex, and theories that define them are still evolving. 
 
 Researchers often find themselves in a very precarious situation when carrying out real-life research projects, where data required to complete such projects are unavailable. Of course, there are a number of legitimate reasons why such data might not be available, including confidentiality issues and lack availability of usable formats. 
 
-To the credit of some computer/geographical scientists, some successes have been achieved in the area geographical modelling through computer simulation approach. However, many of these simulations are super-specific and might not be 'customisable' for other purposes. 
+To the credit of some computer/geospatial scientists, some successes have been achieved in the area geographical modelling through computer simulation approach. However, many of these simulations are super-specific and might not be 'customisable' for other purposes. 
 
-In this section, I introduce a dynamic microsimulation framework for simulating crime patterns. This framework is aimed to be adjustable for generating different kinds of dynamism in offenders behaviours, giving rise to all kinds of space-time crime patterns. 
+In this section, I introduce a *dynamic microsimulation framework* for simulating crime patterns. This framework is aimed to be adjustable for generating different types of dynamisms in offenders behaviours, giving rise to all kinds of crime distributions in space-time.  
 
-The preliminary version of this framework was published [here](http://eprints.whiterose.ac.uk/128602/1/monsuru_adepeju_gisruk2018.pdf).  
 
 
 # A dynamic microsimulation framework for simulating different kinds of crime patterns.
+
+This framework...
+
+The preliminary version of this framework was published [here](http://eprints.whiterose.ac.uk/128602/1/monsuru_adepeju_gisruk2018.pdf).  
 
 
 
