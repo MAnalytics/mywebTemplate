@@ -185,7 +185,7 @@
     "categories": [
       "R"
     ],
-    "content": "\rTitle:\rOffender residential concentration: a longitudinal study in the United Kingdom\n\rAuthors:\rSamuel Langton \u0026amp; Monsuru Adepeju\n\rAbstract:\rThis study examines..\nYou can also embed plots. See Figure 1 for example:\npar(mar = c(0, 1, 0, 1))\rpie(\rc(280, 60, 20),\rc(\u0026#39;Sky\u0026#39;, \u0026#39;Sunny side of pyramid\u0026#39;, \u0026#39;Shady side of pyramid\u0026#39;),\rcol = c(\u0026#39;#0292D8\u0026#39;, \u0026#39;#F7EA39\u0026#39;, \u0026#39;#C4B632\u0026#39;),\rinit.angle = -50, border = NA\r)\r\rFigure 1: A fancy pie chart.\r\r\r",
+    "content": "\rTitle:\rOffender residential concentration: a longitudinal study in the United Kingdom\n\rAuthors:\rSamuel Langton \u0026amp; Monsuru Adepeju\n\rAbstract:\rThis study examines..\n\r",
     "date": 1437703994,
     "expirydate": -62135596800,
     "kind": "page",
@@ -196,13 +196,13 @@
     "publishdate": "2015-07-23T21:13:14-05:00",
     "relpermalink": "/post/2015-07-23-r-rmarkdown/",
     "section": "post",
-    "summary": "Title:\rOffender residential concentration: a longitudinal study in the United Kingdom\n\rAuthors:\rSamuel Langton \u0026amp; Monsuru Adepeju\n\rAbstract:\rThis study examines..\nYou can also embed plots. See Figure 1 for example:\npar(mar = c(0, 1, 0, 1))\rpie(\rc(280, 60, 20),\rc(\u0026#39;Sky\u0026#39;, \u0026#39;Sunny side of pyramid\u0026#39;, \u0026#39;Shady side of pyramid\u0026#39;),\rcol = c(\u0026#39;#0292D8\u0026#39;, \u0026#39;#F7EA39\u0026#39;, \u0026#39;#C4B632\u0026#39;),\rinit.angle = -50, border = NA\r)\r\rFigure 1: A fancy pie chart.",
+    "summary": "\rTitle:\rOffender residential concentration: a longitudinal study in the United Kingdom\n\rAuthors:\rSamuel Langton \u0026amp; Monsuru Adepeju\n\rAbstract:\rThis study examines..\n\r",
     "tags": [
       "R Markdown",
       "plot",
       "regression"
     ],
-    "title": "European Society of Criminology - 29th August 2018",
+    "title": "European Society of Criminology - Sarajevo, BiH - 29th August 2018",
     "type": "post"
   },
   {
