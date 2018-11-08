@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monsuru Adepeju&#39;s Homepage on Monsuru Adepeju&#39;s Homepage</title>
-    <link>https://madepeju.com/</link>
+    <link>/</link>
     <description>Recent content in Monsuru Adepeju&#39;s Homepage on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>BDC Seminar Series - 2nd October 2018</title>
-      <link>https://madepeju.com/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;h2 id=&#34;authors&#34;&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/h2&gt;
@@ -36,10 +36,10 @@
     
     <item>
       <title>BDC Seminar Series | 13th November 2018</title>
-      <link>https://madepeju.com/seminars/tutor_eg_131118/</link>
+      <link>/seminars/tutor_eg_131118/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/seminars/tutor_eg_131118/</guid>
+      <guid>/seminars/tutor_eg_131118/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>BDC Seminar Series | 2nd October, 2018</title>
-      <link>https://madepeju.com/seminars/tutor_eg_021018/</link>
+      <link>/seminars/tutor_eg_021018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/seminars/tutor_eg_021018/</guid>
+      <guid>/seminars/tutor_eg_021018/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -82,10 +82,10 @@
     
     <item>
       <title>BDC Seminar Series | 30th October 2018</title>
-      <link>https://madepeju.com/seminars/tutor_eg_301018/</link>
+      <link>/seminars/tutor_eg_301018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/seminars/tutor_eg_301018/</guid>
+      <guid>/seminars/tutor_eg_301018/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -108,10 +108,10 @@
     
     <item>
       <title>BDC Seminar series | 16th October 2018</title>
-      <link>https://madepeju.com/seminars/tutor_eg_161018/</link>
+      <link>/seminars/tutor_eg_161018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/seminars/tutor_eg_161018/</guid>
+      <guid>/seminars/tutor_eg_161018/</guid>
       <description>
 
 &lt;h2 id=&#34;title&#34;&gt;&lt;strong&gt;Title:&lt;/strong&gt;&lt;/h2&gt;
@@ -137,11 +137,21 @@
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Delineators: Geographical Space</title>
-      <link>https://madepeju.com/project/internal-project/</link>
+      <link>/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/internal-project/</guid>
+      <guid>/project/internal-project/</guid>
       <description>
 
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
@@ -180,10 +190,10 @@
     
     <item>
       <title>Predictors: Geographical Processes</title>
-      <link>https://madepeju.com/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description>
 
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
@@ -205,7 +215,7 @@
 
 &lt;h1 id=&#34;2-footfall-predictor&#34;&gt;2. Footfall Predictor&lt;/h1&gt;
 
-&lt;p&gt;This tool was developed as a part of the &lt;a href=&#34;http://surf.leeds.ac.uk/&#34; target=&#34;_blank&#34;&gt;Surf Project&lt;/a&gt; funded by &lt;a href=&#34;https://esrc.ukri.org/funding/funding-opportunities/future-research-leaders/&#34; target=&#34;_blank&#34;&gt;ESRC Future Research Leaders&lt;/a&gt; scheme. The tool, named as &lt;em&gt;Leeds Footfall Predictor&lt;/em&gt;, built on the work led by &lt;a href=&#34;http://www.nickmalleson.co.uk/&#34; target=&#34;_blank&#34;&gt;Dr. Nick Malleson&lt;/a&gt; which determined that the daily footfall rates observed in the Leeds city centre can be explained in terms of external variables, such as temperature, rainfall and holidays. The research involved the application of different machine learning algorithms to a combination of these variables (predictors) and subsequently compared the accuracies of the former. It was established that the &lt;em&gt;Random Forest&lt;/em&gt; algorithm by &lt;a href=&#34;https://link.springer.com/article/10.1023/A:1010933404324&#34; target=&#34;_blank&#34;&gt;Breiman, 2001&lt;/a&gt; is the most accurate for forecasting footfall rates. Thus, the algorithm, as implemented in R by &lt;a href=&#34;https://www.r-project.org/doc/Rnews/Rnews_2002-3.pdf&#34; target=&#34;_blank&#34;&gt;Liaw and Wiener, 2002&lt;/a&gt;, was employed in the development of the Leeds Footfall Predictor. The tool was then deployed using the &lt;em&gt;RShinydashboard&lt;/em&gt; platform.&lt;/p&gt;
+&lt;p&gt;This tool was developed as a part of the &lt;a href=&#34;http://surf.leeds.ac.uk/&#34; target=&#34;_blank&#34;&gt;Surf Project&lt;/a&gt; funded by &lt;a href=&#34;https://esrc.ukri.org/funding/funding-opportunities/future-research-leaders/&#34; target=&#34;_blank&#34;&gt;ESRC Future Research Leaders&lt;/a&gt; scheme. The tool, named as &lt;em&gt;Leeds Footfall Predictor&lt;/em&gt;, built on the work led by &lt;a href=&#34;http://www.nickmalleson.co.uk/&#34; target=&#34;_blank&#34;&gt;Dr. Nick Malleson&lt;/a&gt; which determined that the daily footfall rates observed in the Leeds city centre can be explained in terms of external variables, such as temperature, rainfall and holidays (See &lt;a href=&#34;https://github.com/nickmalleson/lcc-footfall/blob/master/LCC_Footfall.ipynb&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;). The research involved the application of different machine learning algorithms to a combination of these variables (predictors) and subsequently compared the accuracies of the former. It was established that the &lt;em&gt;Random Forest&lt;/em&gt; algorithm by &lt;a href=&#34;https://link.springer.com/article/10.1023/A:1010933404324&#34; target=&#34;_blank&#34;&gt;Breiman, 2001&lt;/a&gt; is the most accurate for forecasting footfall rates. Thus, the algorithm, as implemented in R by &lt;a href=&#34;https://www.r-project.org/doc/Rnews/Rnews_2002-3.pdf&#34; target=&#34;_blank&#34;&gt;Liaw and Wiener, 2002&lt;/a&gt;, was employed in the development of the Leeds Footfall Predictor. The tool was then deployed using the &lt;em&gt;RShinydashboard&lt;/em&gt; platform.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Figures here (Developed by Monsuru Adepeju)&lt;/strong&gt;&lt;/p&gt;
 
@@ -215,10 +225,10 @@
     
     <item>
       <title>Simulators: Space-time Point Patterns</title>
-      <link>https://madepeju.com/project/internal-project2/</link>
+      <link>/project/internal-project2/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/internal-project2/</guid>
+      <guid>/project/internal-project2/</guid>
       <description>
 
 &lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
@@ -243,10 +253,10 @@
     
     <item>
       <title>Past invited talks</title>
-      <link>https://madepeju.com/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://madepeju.com/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -265,10 +275,10 @@
     
     <item>
       <title>Slides</title>
-      <link>https://madepeju.com/slides/example-slides/</link>
+      <link>/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://madepeju.com/slides/example-slides/</guid>
+      <guid>/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
