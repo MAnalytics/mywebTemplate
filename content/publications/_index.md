@@ -14,6 +14,12 @@ type = "docs"  # Do not modify.
   weight = 1
 +++
 
+## **Papers in preparation**
+
+**Adepeju M.**, Langton, S. & Bannister, J. Measuring Inequality in the Exposure to Crime at the Small-Area Level: A novel implementation of longitudinal K-means.
+
+Bannister J., **Adepeju M.** & Langton, S. Inequalities in the exposure to crime at the neighbourhood level: A tale of two cities
+
 ## **Journal articles:**
 
 **Adepeju, M.** and Evans, A., **2018**. Determining the optimal spatial and temporal thresholds that maximize the predictive accuracy of the prospective space-time scan statistic (PSTSS) hotspot method. *Journal of Spatial Information Science*, 2018(16), pp.57-84. Available [here](https://www.josis.org/index.php/josis/article/viewArticle/362).
