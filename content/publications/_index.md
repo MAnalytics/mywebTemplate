@@ -20,6 +20,8 @@ type = "docs"  # Do not modify.
 
 Bannister J., **Adepeju M.** & Langton, S. Inequalities in the exposure to crime at the neighbourhood level: A tale of two cities
 
+**Adepeju M.**. Crime concentration and predictability: a review of different hotspotting techniques.
+
 ## **Journal articles:**
 
 **Adepeju, M.** and Evans, A., **2018**. Determining the optimal spatial and temporal thresholds that maximize the predictive accuracy of the prospective space-time scan statistic (PSTSS) hotspot method. *Journal of Spatial Information Science*, 2018(16), pp.57-84. Available [here](https://www.josis.org/index.php/josis/article/viewArticle/362).
