@@ -1,3 +1,15 @@
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129027024-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129027024-1');
+</script>
+
+
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 #
@@ -29,8 +41,8 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-#googleAnalytics = ""
-googleAnalytics = "UA-1988641-2"
+#googleAnalytics = "UA-1988641-2"
+googleAnalytics = "UA-129027024-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
