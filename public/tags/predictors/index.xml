@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Predictors on Monsuru Adepeju&#39;s Homepage</title>
-    <link>https://madepeju.com/tags/predictors/</link>
+    <link>/tags/predictors/</link>
     <description>Recent content in Predictors on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://madepeju.com/tags/predictors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/predictors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Predictors: Geographical Processes</title>
-      <link>https://madepeju.com/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>https://madepeju.com/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description>Introduction This section introduces a set of predictive tools for certain geographical processes, such as crime and footfalls. The links to downloading these tools are also provided.
 1. Grid-based Crime Hotspot Predictors Crime Hotspot refers to an area with a high risk of crime. In practice, police are interested in crime hotspot in order to inform crime intervention. However, it requires the use of an analytical technique to identify hotspot areas and be able to rank them according to their level of severity.</description>
     </item>
