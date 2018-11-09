@@ -41,10 +41,10 @@ weight = 5
 
 # MOnalytics
 
-Welcome to my website - **MOnalytics**. This website is set to provide a high-level description of some of my research, especially those ones with further research and real practical applications. These are featured in the [Open-tools](https://www.madepeju.com/#projects) section of this website. I hope you find the contents useful. Enjoy!
+Welcome to my website - **MOnalytics**. This website is set to provide a high-level description of some of my research, especially those ones with further research and real practical applications. These are featured in the [Open-tools](https://www.madepeju.com/#projects) section of this website. As the name implies, all the tools on this website are 'open-sourced', including the design of the website itself (Details [here](https://github.com/rstudio/rmarkdown-book/blob/master/10-website.Rmd)). I hope you find the contents useful. Enjoy!
 
 # About me
 
 I consider myself a 'geoinformatician' - many of my research have focussed on explaining things from a geographical viewpoint. Nearly all human processes have got certain spatial characteristics to them, and there is a lot we can learn by studying these characteristics. Of particular interest to me is the spatial understanding of criminal behaviours and victimisation, and how we can leverage big data opportunities to answer key criminological questions. Based in [MMU Crime and Well-Being Big Data Centre](https://www2.mmu.ac.uk/crime-and-policing/big-data-centre/), my current research focus on the development of measures of crime inequalities and risk indicators, taking into account the identified drivers and spatial patterns of crime. Prior to joining the [MMU]((https://www2.mmu.ac.uk/crime-and-policing/big-data-centre/)), a part of my research had focussed on developing analytical tools for informing decision-making in a real-life policing environment. Some of my work have influenced police practices and helped to reduce crime levels in some UK cities. 
 
-Check-out my [GitHub page](https://github.com/MAnalytics) for some useful crime analytical tools and [here](https://github.com/MAnalytics/Webdesign_using_Hugo_blogdown) for 'step-by-step' of how you can design your own website using [R-blogdown](https://bookdown.org/yihui/blogdown/) (with [Hugo](https://gohugo.io/)).
+Check-out my [GitHub page](https://github.com/MAnalytics) for some useful crime analytical tools.
