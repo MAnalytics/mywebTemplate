@@ -20,7 +20,7 @@ type = "docs"  # Do not modify.
 
 Bannister J., **Adepeju M.** & Langton, S. Inequalities in the exposure to crime at the neighbourhood level: A tale of two cities
 
-**Adepeju M.**. Crime concentration and predictability: a review of different hotspotting techniques.
+**Adepeju M.**. Crime concentration and predictability: a review of prospective hotspot techniques.
 
 ## **Journal articles:**
 
