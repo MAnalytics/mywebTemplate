@@ -56,10 +56,4 @@ Lovelace, R., Padgham, M., **Adepeju, M.** & Groot, N. **2018** Estimating cycli
 
 Cheng, T. & **Adepeju, M.** **2013** Detecting emerging space-time crime patterns by prospective STSS. In Proc of the 12th *International Conference on GeoComputation*. Available [here](http://www.geog.leeds.ac.uk/groups/geocomp/2013/papers/77.pdf).
 
-## **Papers in preparation**
-
-**Adepeju M.**, Langton, S. & Bannister, J. Measuring Inequality in the Exposure to Crime at the Small-Area Level: A novel implementation of longitudinal K-means.
-
-Bannister J., **Adepeju M.** & Langton, S. Inequalities in the exposure to crime at the neighbourhood level: A tale of two cities
-
 
