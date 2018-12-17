@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 # linktitle = "Example Page"
 [menu.Seminars]
   #parent = "Example Topic"
-  name = "S05. 11/12/2018"
+  name = "S06. 11/12/2018"
   weight = 1
 +++
 
