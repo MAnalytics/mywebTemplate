@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>plot on Monsuru Adepeju&#39;s Homepage</title>
-    <link>https://mnalytics.com/tags/plot/</link>
+    <link>/tags/plot/</link>
     <description>Recent content in plot on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://mnalytics.com/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Past invited talks</title>
-      <link>https://mnalytics.com/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://mnalytics.com/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>Paper presentations:Langton, S. &amp;amp; Adepeju, M. 2018. A longitudinal study of offender residential concentration in the UK. Presented at the European Society of Criminology - Sarajevo, Bosnia and Herzegovina - 29th August 2018.
 Adepeju, M. 2017 Developing a hybrid hotspot approach for improving the accuracy of crime prediction. ECTQG 18th European Colloquium on Theoretical and Quantitative Geography, York, United Kingdom, September 2017
 Adepeju, M. &amp;amp; Cheng, T. 2016 A Spatially-Integrated Sparse Point Time Series (SSPT) Prediction Method.</description>
