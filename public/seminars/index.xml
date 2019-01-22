@@ -2,72 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BDC Seminar Series 2018-2019 on Monsuru Adepeju&#39;s Homepage</title>
-    <link>https://mnalytics.com/seminars/</link>
+    <link>/seminars/</link>
     <description>Recent content in BDC Seminar Series 2018-2019 on Monsuru Adepeju&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://mnalytics.com/seminars/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/seminars/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BDC Seminar Series | 11th December 2018</title>
-      <link>https://mnalytics.com/seminars/tutor_eg_111218/</link>
+      <link>/seminars/tutor_eg_111218/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mnalytics.com/seminars/tutor_eg_111218/</guid>
+      <guid>/seminars/tutor_eg_111218/</guid>
       <description>Title: &amp;ldquo;Geographically weighted flow modelling and its new challenges&amp;rdquo;
 Abstract: In the era of big data, increasing availability of mobility data captured through sensors, smart card, transaction and users/citizens has offered great opportunity for spatio-temporal modelling of flows (people and goods). Geographically weighted regression, as a local modelling method, has been extensively applied for analysing spatial non-stationarity. However, flow data, resulting from spatial interactions, usually exhibit an over-dispersion statistical pattern and a complicated spatial structure.</description>
     </item>
     
     <item>
       <title>BDC Seminar Series | 13th November 2018</title>
-      <link>https://mnalytics.com/seminars/tutor_eg_131118/</link>
+      <link>/seminars/tutor_eg_131118/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mnalytics.com/seminars/tutor_eg_131118/</guid>
+      <guid>/seminars/tutor_eg_131118/</guid>
       <description>Title: &amp;ldquo;Offender residential concentrations: a longitudinal study in the United Kingdom
 Abstract: Despite having common roots in crime concentration research, little attention has been paid to the geographic distribution of offender residences. Questions remain unanswered about how stable offender residential concentrations are over time, or how sensitive this stability is to the choice of spatial scale. Given that many offenders commit crime close to where they reside, an important piece of the puzzle may be missing in our efforts to understand the longitudinal concentration of crime.</description>
     </item>
     
     <item>
       <title>BDC Seminar Series | 27th November 2018</title>
-      <link>https://mnalytics.com/seminars/tutor_eg_271118/</link>
+      <link>/seminars/tutor_eg_271118/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mnalytics.com/seminars/tutor_eg_271118/</guid>
+      <guid>/seminars/tutor_eg_271118/</guid>
       <description>Title: &amp;ldquo;Re-examining the &amp;lsquo;law of crime concentration&amp;rsquo; at place: theory, simulation, and application&amp;rdquo;
 Abstract: Over the past two decades the field of quantitative criminology has given great focus to the theory of &amp;ldquo;crime concentration at place&amp;rdquo;, with many researchers now referring to this theory as the &amp;ldquo;law of crime concentration&amp;rdquo;. The law states &amp;ldquo;for a defined measure of crime at a specific micro-geographic unit, the concentration of crime will fall within a narrow bandwidth of percentages for a defined cumulative proportion of crime&amp;rdquo; Weisburd, 2014.</description>
     </item>
     
     <item>
       <title>BDC Seminar Series | 2nd October, 2018</title>
-      <link>https://mnalytics.com/seminars/tutor_eg_021018/</link>
+      <link>/seminars/tutor_eg_021018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mnalytics.com/seminars/tutor_eg_021018/</guid>
+      <guid>/seminars/tutor_eg_021018/</guid>
       <description>Title: The crime drop and neighbourhood inequalities in the exposure to crime: A longitudinal study of violent and property crime in England (2001-2016)
 Abstract: Since the 1990s, a dramatic decline in recorded crime has been observed across many developed polities (Aebi and Linde, 2010; Tseloni et al., 2010). Set against this finding, there has been limited attention paid the crime drop at the neighbourhood level, an exception being Bannister et al (2017) who found marked distinction in the crime drop trajectories of different neighbourhood groupings in Glasgow.</description>
     </item>
     
     <item>
-      <title>BDC Seminar Series | 30th October 2018</title>
-      <link>https://mnalytics.com/seminars/tutor_eg_301018/</link>
+      <title>BDC Seminar Series | 30th January 2019</title>
+      <link>/seminars/tutor_eg_300119/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mnalytics.com/seminars/tutor_eg_301018/</guid>
+      <guid>/seminars/tutor_eg_300119/</guid>
+      <description>Title: &amp;ldquo;Cryptocurrencies, Tor, and the Darkweb - Advances in Technology for Crime&amp;rdquo;
+Abstract: When it comes to fighting criminal activity on the darkweb, there have been many success stories. Law enforcement agencies from different countries work together to take-down major marketplaces offering illegal and illicit goods. However, these take-downs often only make a small dent in the darkweb operations, and imitators/competitors will quickly rise to take their place. How do sites brazenly operate on the darkweb in a way that is so resistant to interruption?</description>
+    </item>
+    
+    <item>
+      <title>BDC Seminar Series | 30th October 2018</title>
+      <link>/seminars/tutor_eg_301018/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/seminars/tutor_eg_301018/</guid>
       <description>Title: &amp;ldquo;Using Agent-Based Simulation for socio-ecological uncertainty analysis&amp;rdquo;
 Abstract: Both social and ecological systems can be highly complex, but the interaction between these two worlds - a socio-ecological system (SES) - can add even greater levels. However, the maintenance of SES are vital to our well-being and the health of the planet. We do not know how such systems work in practice and we lack good data about them (especially the ecological side) so predicting the effect of any particular policy is infeasible.</description>
     </item>
     
     <item>
       <title>BDC Seminar series | 16th October 2018</title>
-      <link>https://mnalytics.com/seminars/tutor_eg_161018/</link>
+      <link>/seminars/tutor_eg_161018/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://mnalytics.com/seminars/tutor_eg_161018/</guid>
+      <guid>/seminars/tutor_eg_161018/</guid>
       <description>Title: Hidden inequality in the exposure to crime? Unreported, reported and recorded crime in Greater Manchester 2012-2016
 Abstract: The level of recorded crime varies markedly across Greater Manchester, with deprived communities bearing a disproportionate burden. However, does recorded crime accurately capture inequality in the exposure to crime? Recorded crime is composed of reported incidents that are evidenced by the police to be a crime. If reporting and evidencing are consistent across communities and crime types, then recorded crime can be argued to be reflective of the lived reality.</description>
     </item>
