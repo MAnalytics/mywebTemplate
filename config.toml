@@ -6,12 +6,11 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://MyName.com/"
+baseurl = "https://mnalytics.com/"
 
 # Title of your site
 icon = "envelope"
-title = "MyName's Homepage"
-
+title = "Monsuru Adepeju's Homepage"
 
 
 # Your copyright notice - appears in site footer.
@@ -27,6 +26,9 @@ paginate = 10
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
+
+# Enable analytics by entering your Google Analytics tracking ID
+googleAnalytics = "UA-129027024-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -51,11 +53,11 @@ enableGitInfo = false
   # AUTHOR SETUP
   #avatar = "portrait.jpg"
   # Your details.
-  name = "Mr. MyName"
+  name = "Dr. Monsuru Adepeju"
   
   #themeColor = "blue" # define a theme color (this will colorize the android address-bar)
 
-  role = "Researcher"
+  role = "Senior Research Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -65,10 +67,10 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "myName@mmu.ac.uk"
+  email = "m.adepeju@mmu.ac.uk"
   address = "Crime & Well-Being Big Data Centre, Manchester Metropolitan University, M15 6BH, UK"
   office_hours = "9:00 to 6:00pm or email for appointment"
-  phone = "+44(0).."
+  phone = "+44(0)7477026254"
   keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -246,24 +248,20 @@ enableGitInfo = false
   #   Full list: https://jpswalsh.github.io/academicons/
 
 [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = " "
-
-[[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = " "
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://github.com/MAnalytics"
 
 [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = " "
-    
+    link = "https://scholar.google.co.uk/citations?user=GkJ_-00AAAAJ&hl=en"
+
+
 [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
-    link = " "
+    link = "https://www.linkedin.com/in/monsuru-adepeju-phd-02a46b27"
 
 [[params.social]]
     icon = "envelope"
