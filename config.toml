@@ -249,7 +249,7 @@ enableGitInfo = false
 
 [[params.social]]
     icon = "github"
-    icon_pack = "ai"
+    icon_pack = "fab"
     link = "https://github.com/MAnalytics"
 
 [[params.social]]
