@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/post/getting-started/</loc>
+      <loc>/post/getting-started/</loc>
       <lastmod>2018-11-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/publications/</loc>
+      <loc>/publications/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/seminars/</loc>
+      <loc>/seminars/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/seminars/tutor_eg_111218/</loc>
+      <loc>/seminars/tutor_eg_111218/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/seminars/tutor_eg_131118/</loc>
+      <loc>/seminars/tutor_eg_131118/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/seminars/tutor_eg_271118/</loc>
+      <loc>/seminars/tutor_eg_271118/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/seminars/tutor_eg_021018/</loc>
+      <loc>/seminars/tutor_eg_021018/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/seminars/tutor_eg_300119/</loc>
+      <loc>/seminars/tutor_eg_300119/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/seminars/tutor_eg_301018/</loc>
+      <loc>/seminars/tutor_eg_301018/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -76,7 +76,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/seminars/tutor_eg_161018/</loc>
+      <loc>/seminars/tutor_eg_161018/</loc>
       <lastmod>2018-09-09T00:00:00+01:00</lastmod>
     </url>
     
@@ -84,7 +84,15 @@
     
     <url>
     
-      <loc>https://mnalytics.com/post/</loc>
+      <loc>/privacy/</loc>
+      <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -92,7 +100,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/project/internal-project/</loc>
+      <loc>/project/internal-project/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
@@ -100,7 +108,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/project/external-project/</loc>
+      <loc>/project/external-project/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
@@ -108,7 +116,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/project/internal-project2/</loc>
+      <loc>/project/internal-project2/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
@@ -116,7 +124,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -124,7 +132,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/tags/academic/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2018-11-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -133,7 +141,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -141,7 +149,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/tags/delineators/</loc>
+      <loc>/tags/delineators/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -150,7 +158,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/</loc>
+      <loc>/</loc>
       <lastmod>2017-10-15T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -159,7 +167,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/tags/predictors/</loc>
+      <loc>/tags/predictors/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -168,7 +176,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -177,7 +185,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -185,7 +193,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/categories/r/</loc>
+      <loc>/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -194,7 +202,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/tags/r-markdown/</loc>
+      <loc>/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -203,7 +211,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/tags/simulators/</loc>
+      <loc>/tags/simulators/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -212,7 +220,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/slides/</loc>
+      <loc>/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -220,14 +228,14 @@
     
     <url>
     
-      <loc>https://mnalytics.com/slides/example-slides/</loc>
+      <loc>/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://mnalytics.com/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2018-11-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -236,7 +244,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/tags/plot/</loc>
+      <loc>/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -245,7 +253,7 @@
     
     <url>
     
-      <loc>https://mnalytics.com/tags/regression/</loc>
+      <loc>/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
