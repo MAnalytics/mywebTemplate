@@ -16,7 +16,7 @@ type = "docs"  # Do not modify.
 
 ## **Papers in preparation**
 
-**Adepeju M.**, Langton, S. & Bannister, J. Measuring Inequality in the Exposure to Crime at the Small-Area Level: A novel implementation of longitudinal K-means.
+
 
 Bannister J., **Adepeju M.** & Langton, S. Inequalities in the exposure to crime at the neighbourhood level: A tale of two cities
 
